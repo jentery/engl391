@@ -33,7 +33,7 @@ I made a one-page, [tl;dr version of this syllabus](guide.html) for you. I'll pr
 
 # Description 
 
-Games prompt us to play, but how do we tell stories with them? And how do those stories correspond with the conventions and expectations of genre? We'll survey the articulation of game genres (such as point-and-click, puzzle, role-playing, sim, and platformer) with literary genres (like fantasy, science fiction, mystery, adventure, and horror) to consider how each affects our understanding, if not our experience, of narrative and play. Then we'll attend to story-rich games that experiment with genre or invent their own. I'll ask you to select a game to study throughout the term, and I'll assume you've no previous experience with games or genre studies. As the course unfolds, you'll learn to write critically about both genre and games and explain why they matter today.  
+Games prompt us to play, but how do we tell stories with them? And how do those stories correspond with the conventions and expectations of genre? We'll survey the articulation of game genres (such as point-and-click, puzzle, role-playing, sim, and platformer) with literary genres (like fantasy, science fiction, mystery, adventure, and horror) to consider how it affects our understanding, if not our experiences, of narrative and play. Then we'll attend to story-rich games that experiment with genre or invent their own. I'll ask you to select a game to study throughout the term, and I'll assume you've no previous experience with games or genre studies. As the course unfolds, you'll learn to write critically about both genre and games and explain why they matter today.  
 
 # Aims 
 
@@ -52,7 +52,7 @@ My name is Jentery Sayers (he / him). I skip a syllable and say it in two: “JE
 
 I am asking you to select *one* of the following games to study and play throughout the term. I will touch upon each of these games during lectures (often with screen caps and recordings) but will go into depth about only a few of them. (See the schedule below for details.) To make this list, I focused on games published since 2010 that are story-rich, cost less than 30 CAD, are available on multiple platforms (ideally one that's mobile), and require no more than ten hours to complete, hence the absence of notable works such as *Disco Elysium*, *Inscryption*, *Mass Effect 2*, *Pentiment*, and *Outer Wilds*.
 
-I recommend reviewing [this spreadsheet](https://docs.google.com/spreadsheets/d/1C6maql6wsx51M6B5YLhgS8cDdqwJXTajUE8Kv5McgLw/edit#gid=0) before selecting one of these games to study for the term. It includes the tagline, game genre(s), literary genre(s), cameras and perspectives, average cost, platforms (including mobile), average number of hours to complete, content warnings, URL, and some notes for each game. If you encounter any errors or mistakes, then please let me know. I'll correct them. 
+I recommend reviewing [this spreadsheet](https://docs.google.com/spreadsheets/d/1C6maql6wsx51M6B5YLhgS8cDdqwJXTajUE8Kv5McgLw/edit#gid=0) before selecting one of these games to study for the term. It includes the tagline, game genre(s), literary genre(s), cameras and perspectives, average cost, platforms (including mobile), average number of hours to completion, content warnings, URL, and some notes for each game. If you encounter any errors or mistakes, then please let me know. I'll correct them. 
 
 Again, please pick only *one* game from the following list to study this term.
 
@@ -90,8 +90,8 @@ If this ends up being too much for the term, then we'll cut material or some of 
 
 You do not need to purchase any books for this course. 
 
-On the topic of genre studies, we will read selections of [*Genre: An Introduction to History, Theory, Research, and Pedagogy*](https://wac.colostate.edu/books/referenceguides/bawarshi-reiff/), by Anis S. Bawarshi and Mary Jo Reiff, as well as "Genre Troubles in Game Studies,"](https://www.kinephanos.ca/2019/genre-troubles-in-game-studies-ludology-agonism-and-social-action/) by Gerald Voorhees, both of which are open-access (available online).
+On the topic of genre studies, we will read selections of [*Genre: An Introduction to History, Theory, Research, and Pedagogy*](https://wac.colostate.edu/books/referenceguides/bawarshi-reiff/), by Anis S. Bawarshi and Mary Jo Reiff, as well as ["Genre Troubles in Game Studies,"](https://www.kinephanos.ca/2019/genre-troubles-in-game-studies-ludology-agonism-and-social-action/) by Gerald Voorhees, both of which are open-access (available online).
 
 I will also supplement some of the games listed above with open-access readings. 
 
-See the schedule below for details about what to read and when. 
+See the schedule below for details about what to read and when.  
