@@ -24,3 +24,9 @@ Contents:
 * [Schedule](#schedule)   
 * [Policies](#policies) 
 * [Territory Acknowledgement](#territory-acknowledgement) 
+
+# tl;dr of this Syllabus
+
+In a rush? Overwhelmed by the start of term? Need a "big picture" guide to steward you through this course?
+
+I made a one-page, [tl;dr version of this syllabus](guide.html) for you. I'll print you a [PDF copy](guide.pdf), too. This guide is not intended to replace the syllabus, but I hope it's convenient in a pinch. 
