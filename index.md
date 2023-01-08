@@ -35,6 +35,6 @@ I designed this course for you to:
 1. Build a vocabulary for approaching genre as an action instead of a category.
 2. Learn a methodology for analyzing what genres *do* in video games and how they mediate the motives and objectives of players.
 3. Document, describe, and evaluate the activity of multiple genres in a single game. 
-4. Compose your own "player story" *with* a game, not just *about* a game. This means you will interact and relate with the game as a process or system instead of treating it like a distinct object to be examined. (I define "player story" in the next section of this syllabus.)
+4. Compose your own "player story" *with* a game, not just *about* a game. This means you will interact and relate with the game as a process or system instead of treating it like a distinct object to be examined from a distance. (I define "player story" in the next section of this syllabus.)
 
 I'll assume you've no previous experience with games or genre studies in an academic context. 
