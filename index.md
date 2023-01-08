@@ -28,7 +28,7 @@ Contents:
 
 As a researcher and instructor at the University of Victoria, I acknowledge and respect the lək̓ʷəŋən peoples on whose traditional territory the University stands, and the Songhees, Esquimalt, and <u>W</u>SÁNEĆ peoples whose historical relationships with the land continue to this day. I'm a setter scholar at UVic, and I arrived here as a guest in July 2011. 
 
-The fact that we're gathering here to study games and genre in an English course is one consequence of colonization and injustice upon local lands and peoples. I will make no assumptions about you or your knowledge of the lands on which we'll work this term; however, if you want to know more about territory acknowledgements, then for now I'll say I've learned a lot from, and am deeply grateful for, this [webpage](https://www.uvicnsu.ca/about/lands) written by the Native Students Union about territory acknowledgements as well as this August 2019 [episode](https://open.spotify.com/episode/76wRKpfhNDS08ehRvtETmR) of *U in the Ring* titled, "With Knowledge Comes Responsibility: Territory Acknowledgements," with Jeff Ganohalidoh Corntassel, Maggie Easton, Steve Farina, Robbie Lewis, Qwul'sih'yah'maht Robina Thomas, and Kolin Sutherland-Wilson. I also invite ongoing dialogue with you about territory acknowledgements and how UVic students, faculty, and staff are giving back to local lands and people.
+The fact that we're gathering here to study games and genre in an English course is one consequence of colonization and injustice upon local lands and peoples. I will make no assumptions about you or your knowledge of the lands on which we'll work this term; however, if you want to know more about territory acknowledgements, then for now I'll say I have personally learned a lot from, and am deeply grateful for, this [webpage](https://www.uvicnsu.ca/about/lands) written by the Native Students Union about territory acknowledgements as well as this August 2019 [episode](https://open.spotify.com/episode/76wRKpfhNDS08ehRvtETmR) of *U in the Ring* titled, "With Knowledge Comes Responsibility: Territory Acknowledgements," with Jeff Ganohalidoh Corntassel, Maggie Easton, Steve Farina, Robbie Lewis, Qwul'sih'yah'maht Robina Thomas, and Kolin Sutherland-Wilson. I also invite ongoing dialogue with you about territory acknowledgements and how UVic students, faculty, and staff are giving back to local lands and people.
 
 # Description
 
@@ -41,7 +41,7 @@ I designed this course for you to:
 1. Build a vocabulary for approaching genre as an action instead of a category.
 2. Learn a methodology for analyzing what genres *do* in video games and how they mediate the motives and objectives of players.
 3. Document, describe, and evaluate the activity of multiple genres in a single game. 
-4. Compose your own "player story" *with* a game, not just *about* a game. This means you will relate, interact, and negotiate with a game by treating it as a process rather than a discrete object to be examined from a distance. (I define "player story" in the next section of this syllabus.)
+4. Compose your own "Player Story" *with* a game, not just *about* a game. This means you will relate, interact, and negotiate with a game by treating it as a process rather than a discrete object to be examined from a distance. (I define "Player Story" in the next section of this syllabus.)
 
 I'll assume you've no previous experience with games or genre studies in an academic context. 
 
