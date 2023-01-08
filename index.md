@@ -61,7 +61,7 @@ This combination of exams (1 and 3 above) and a project (2, 4, and 5) should hel
 
 *Workshops*: I will facilitate a series of workshops in late March intended to help you develop and refine your Player Story, which is due on Tuesday, April 18th. I will distribute worksheets for you to complete with peers in small groups and then return to me for assessment when the workshops are finished.
 
-*Player Story*: "Player story" is a methodology [my lab](https://uvicpraxis.github.io/) developed to engage genre and narrative in games. 
+*Player Story*: The "player story" is a methodology [my lab](https://uvicpraxis.github.io/) developed to engage genre and narrative in games. 
 
 A player story documents the following experiences of a game: 
 
@@ -77,7 +77,7 @@ The two most common formats for player stories are:
 1. Video essays with voice-over narration and 
 2. Written essays with images and/or embedded media such as video and audio. 
 
-You'll choose one of these two formats for your Player Story in this course, and I'll dedicate a few class meetings to studying and composing player stories about games, narrative, and genre. 
+You'll choose one of these two formats for your Player Story in this course, and I'll dedicate a few class meetings to studying and composing player stories about games, narrative, and genre. I will circulate the prompt for this assignment in February, when I circulate the prompt for the Activity Analysis.  
 
 # About Me 
 
@@ -132,3 +132,11 @@ On the topic of genre studies, we will read selections of [*Genre: An Introducti
 I will also supplement some of the games listed above with optional material: open-access readings, video, and podcast episodes. 
 
 See the schedule below for details about what to read and when.  
+
+# Workload
+
+The most important thing to know about this course is that *I'll opt for care in every instance.* If the workload becomes too much, or we're juggling more than we should, then we'll cut materials. I've planned for the maximum in advance, under the assumption that we won't get to everything. And that's totally fine.
+
+I suggest dedicating 3 to 5 hours of study to English 391 each week, plus 3 hours for weekly meetings (TWF). Of course, 3 to 5 hours per week is only a guideline. You may find that you need more or less time depending on the activity, your preferences, and your own familiarity with the work and materials involved.
+
+In Brightspace, I will also message you once each week (usually on Fridays) with an update on how the course is progressing and what you might consider as we move forward (to plan for reading, games, assignments, due dates, and whatnot).
