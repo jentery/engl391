@@ -28,7 +28,7 @@ Contents:
 
 As a researcher and instructor at the University of Victoria, I acknowledge and respect the lək̓ʷəŋən peoples on whose traditional territory the University stands, and the Songhees, Esquimalt, and <u>W</u>SÁNEĆ peoples whose historical relationships with the land continue to this day. I'm a setter scholar at UVic, and I arrived here as a guest in July 2011. 
 
-The fact that we're gathering here to study games and genre in an English course is one consequence of colonization and injustice upon local lands and peoples. I will make no assumptions about you or your knowledge of the lands on which we'll work this term; however, if you want to know more about territory acknowledgements, then for now I'll say I have personally learned a lot from, and am deeply grateful for, this [webpage](https://www.uvicnsu.ca/about/lands) written by the Native Students Union about territory acknowledgements as well as this August 2019 [episode](https://open.spotify.com/episode/76wRKpfhNDS08ehRvtETmR) of *U in the Ring* titled, "With Knowledge Comes Responsibility: Territory Acknowledgements," with Jeff Ganohalidoh Corntassel, Maggie Easton, Steve Farina, Robbie Lewis, Qwul'sih'yah'maht Robina Thomas, and Kolin Sutherland-Wilson. I also invite ongoing dialogue with you about territory acknowledgements and how UVic students, faculty, and staff are giving back to local lands and people.
+The fact that we're gathering here to study games and genre in an English course is a product of colonization and injustice upon local lands and peoples. I will make no assumptions about you or your knowledge of the lands on which we'll work this term; however, if you want to know more about territory acknowledgements, then for now I'll say I have personally learned a lot from, and am deeply grateful for, this [webpage](https://www.uvicnsu.ca/about/lands) written by the Native Students Union about territory acknowledgements as well as this August 2019 [episode](https://open.spotify.com/episode/76wRKpfhNDS08ehRvtETmR) of *U in the Ring* titled "With Knowledge Comes Responsibility: Territory Acknowledgements" and featuring Jeff Ganohalidoh Corntassel, Maggie Easton, Steve Farina, Robbie Lewis, Qwul'sih'yah'maht Robina Thomas, and Kolin Sutherland-Wilson. I also invite ongoing dialogue with you about territory acknowledgements and how UVic students, faculty, and staff are giving back to local lands and people.
 
 # Description
 
@@ -50,10 +50,10 @@ I'll assume you've no previous experience with games or genre studies in an acad
 I am asking you to complete five assignments this term: 
 
 1. [Take-Home Exam 1](exam1.html) (22.5% of your final mark; response due by Friday, February 3rd at 11:30am). 
-2. [Activity Analysis](activity.html) for your player story (20% of your final mark; response recommended by Friday, February 17th but required by Wednesday, March 1st).  
-3. [Take-Home Exam 2](exam2.html) (22.5% of your final mark; response due by Wednesday, March 22nd).
-4. [Workshops](workshops.html) to develop and refine your player stories (5% of your final mark; conducted in class March 28th - 31st).
-5. [Player Story](final.html) about a game and its genres (30% of your final mark; response due by Tuesday, April 18th). 
+2. [Activity Analysis](activity.html) for your Player Story (20% of your final mark; response recommended by Friday, February 17th at 11:30am but required by Wednesday, March 1st at 11:30am).  
+3. [Take-Home Exam 2](exam2.html) (22.5% of your final mark; response due by Wednesday, March 22nd at 11:30am).
+4. [Workshops](workshops.html) to refine your Player Stories (5% of your final mark; conducted during class March 28th - 31st).
+5. [Player Story](final.html) about a game and its genres (30% of your final mark; response due by Tuesday, April 18th at 11:30am). 
 
 This combination of exams (1 and 3 above) and a project (2, 4, and 5 above) should help you to account for the fundamentals of genre studies while developing a specific line of inquiry through a single game. Again, I am asking you to select one game from [this list](https://docs.google.com/spreadsheets/d/1C6maql6wsx51M6B5YLhgS8cDdqwJXTajUE8Kv5McgLw/edit#gid=0) to study for the entire term. 
 
@@ -61,11 +61,11 @@ This combination of exams (1 and 3 above) and a project (2, 4, and 5 above) shou
 
 *Feedback*: I will provide feedback on each assignment according to its rubric, with most of my energies dedicated to your Activity Analysis (see #2 above), which will be incredibly important as you prepare your Player Story (see #5 above). If you respond to all assignments on time, then you will know 70% of your final mark by Thursday, April 6th (the last day of classes). 
 
-*Exams*: I will distribute the questions for Take-Home Exams 1 and 2 *two weeks* in advance of their respective due dates. Responses will be short-answer, and the exams will be open-book, meaning you're allowed to use your notes, assigned readings, and other resources to address the questions. The exams will cover lectures, games, and readings in the course. Please also note that I will not hold a final exam for this course during UVic's final exam period in April. 
+*Exams*: I will distribute the questions for Take-Home Exams 1 and 2 *two weeks* in advance of their respective due dates. Responses will be short-answer, and the exams will be open-book, meaning you're allowed to use your notes, assigned readings, and other resources to address the questions. The exams will cover lectures, games, and readings in the course. There will be no multiple-choice questions. Please also note that I will not hold a final exam for this course during UVic's final exam period in April. 
 
-*Activity Analysis*: This assignment will ask you to start conducting genre research for your Player Story. I will circulate the prompt for it *two weeks* in advance of the due date. To complete the assignment, you will need to [select a game](https://docs.google.com/spreadsheets/d/1C6maql6wsx51M6B5YLhgS8cDdqwJXTajUE8Kv5McgLw/edit#gid=0) to study this term. I recommend submitting your response by Friday, February 17th. This way, you'll know 42.5% of your final mark before February 28th, which is the last day to withdraw from this course without penalty of failure. However, you are welcome to submit your response as late as Wednesday, March 1st. 
+*Activity Analysis*: This assignment will ask you to start conducting genre research for your Player Story. I will circulate the prompt for it *two weeks* in advance of the due date. To complete the assignment, you will need to [select a game](https://docs.google.com/spreadsheets/d/1C6maql6wsx51M6B5YLhgS8cDdqwJXTajUE8Kv5McgLw/edit#gid=0) to study this term. I recommend submitting your response by Friday, February 17th. This way, you'll know 42.5% of your final mark by February 28th, which is the last day to withdraw from this course without penalty of failure. That said, you are welcome to submit your response as late as Wednesday, March 1st. 
 
-*Workshops*: I will facilitate a series of writing and research workshops in late March. They will help you develop and refine your Player Story well before it's due on Tuesday, April 18th. During these workshops, I will distribute worksheets for you to complete with peers in small groups and then return to me for assessment.
+*Workshops*: I will facilitate a series of writing and research workshops in late March. They will help you to refine your Player Story well before it's due on Tuesday, April 18th. During these workshops, I will distribute worksheets for you to complete with peers in small groups and then return to me for assessment.
 
 *Player Story*: A "Player Story" is a methodology [my lab](https://uvicpraxis.github.io/) developed to engage genre and narrative in games. 
 
@@ -83,7 +83,7 @@ The two most common formats for Player Stories are:
 1. Video essays with voice-over narration and 
 2. Written essays with images and/or embedded media such as video and audio. 
 
-You'll choose one of these two formats for your Player Story in this course, and I'll dedicate a few class meetings to studying and composing Player Stories about games, narrative, and genre. I will circulate the prompt for this assignment in early February alongside the prompt for the Activity Analysis.  
+You'll choose one of these two formats for your Player Story in this course, and I'll dedicate a few class meetings to studying and composing Player Stories about games, narrative, and genre. I will circulate the prompt for the Player Story assignment in early February alongside the prompt for the Activity Analysis.  
 
 # Games
 
@@ -93,33 +93,33 @@ I recommend reviewing [this spreadsheet](https://docs.google.com/spreadsheets/d/
 
 To make the following list, I focused on games published since 2010 that are story-rich, cost less than 30 CAD, are available on multiple platforms (ideally one that's mobile), and require no more than ten hours to complete, hence the absence of notable works such as *Disco Elysium*, *Inscryption*, *Mass Effect 2*, *Pentiment*, and *Outer Wilds*.
 
-* *80 Days* (2014)
-* *Butterfly Soup* (2017)
-* *Card Shark* (2022)
-* *Citizen Sleeper* (2022)
-* *Eliza* (2019)
-* *Even the Ocean* (2016) 
-* *Firewatch* (2016)
-* *Get in the Car, Loser!* (2021) 
-* *Gris* (2018)
-* *Immortality* (2022) 
-* *Inside* (2016)
-* *Kentucky Route Zero* (2013-20)
-* *Neo Cab* (2019)
-* *Never Alone (Kisima Ingitchuna)* (2014)
-* *Night in the Woods* (2017) 
-* *NORCO* (2022)
-* *Oxenfree* (2016)
-* *Portal 2* (2011)
-* *Return of the Obra Dinn* (2018)
-* *Signalis* (2022)
-* *Stanley Parable: Ultra Deluxe* (2022) 
-* *Strange Horticulture* (2022)
-* *That Dragon, Cancer* (2016)
-* *To The Moon* (2011) 
-* *Umurangi Generation* (2020)
-* *Unpacking* (2021) 
-* *When Rivers Were Trails* (2019)
+* *80 Days* by inkle (2014)
+* *Butterfly Soup* by Brianna Lei (2017)
+* *Card Shark* by Nerial (2022)
+* *Citizen Sleeper* by Jump over the Age (2022)
+* *Eliza* by Zachtronics (2019)
+* *Even the Ocean* by Analgesic (2016) 
+* *Firewatch* by Campo Santo (2016)
+* *Get in the Car, Loser!* by Love Conquers All (2021) 
+* *Gris* by Nomada (2018)
+* *Immortality* by Half Mermaid (2022) 
+* *Inside* by Playdead (2016)
+* *Kentucky Route Zero* by Cardboard Computer (2013-20)
+* *Neo Cab* by Chance Agency (2019)
+* *Never Alone (Kisima Ingitchuna)* by E-Line Media (2014)
+* *Night in the Woods* by Infinite Fall (2017) 
+* *NORCO* by Geography of Robots (2022)
+* *Oxenfree* by Night School (2016)
+* *Portal 2* by Valve (2011)
+* *Return of the Obra Dinn* by Lucas Pope (2018)
+* *Signalis* by rose-engine (2022)
+* *Stanley Parable: Ultra Deluxe* by Crows Crows Crows (2022) 
+* *Strange Horticulture* by Bad Viking (2022)
+* *That Dragon, Cancer* by Numinous (2016)
+* *To The Moon* by Freebird (2011) 
+* *Umurangi Generation* by Origame (2020)
+* *Unpacking* by Witch Beam (2021) 
+* *When Rivers Were Trails* by the Indian Land Tenure Foundation (2019)
 
 If this ends up being too much for the term, then we'll cut material or some of it will become optional. 
 
@@ -129,7 +129,7 @@ You do not need to purchase any books for this course.
 
 On the topic of genre studies, we will read: 
 
-* Selections of [*Genre: An Introduction to History, Theory, Research, and Pedagogy*](https://wac.colostate.edu/books/referenceguides/bawarshi-reiff/), by Anis S. Bawarshi and Mary Jo Reiff, and 
+* Selections of [*Genre: An Introduction to History, Theory, Research, and Pedagogy*](https://wac.colostate.edu/books/referenceguides/bawarshi-reiff/), by Anis S. Bawarshi and Mary Jo Reiff.
 * ["Genre Troubles in Game Studies,"](https://www.kinephanos.ca/2019/genre-troubles-in-game-studies-ludology-agonism-and-social-action/) by Gerald Voorhees.
 
 Both of these publications are open-access (available online without paywalls). 
@@ -144,11 +144,263 @@ The most important thing to know about this course is that *I'll opt for care in
 
 I suggest dedicating 3 to 5 hours of study to English 391 each week, plus 3 hours for weekly meetings (TWF). Of course, 3 to 5 hours per week is only a guideline. You may find that you need more or less time depending on the activity, your preferences, and your own familiarity with the work and materials involved.
 
-In Brightspace, I will also message you once each week (usually on Fridays) with an update on how the course is progressing and what you might consider as we move forward (to plan for reading, games, assignments, due dates, and whatnot).
+In Brightspace, I will also message you once each week (usually on Fridays) with an update on how the course is progressing and what you might consider as we move forward to plan for reading, games, assignments, due dates, and whatnot.
 
 # Schedule
 
-Coming soon. 
+Here's the schedule for the term. It's subject to change. I will use a Brightspace announcement to notify you at least two weeks in advance of any changes, and I will never use schedule changes to increase your workload. 
+
+## Introductions (Jan. 10)
+
+*Tuesday, January 10th* 
+
+* There's no need to prep for our first meeting. We'll introduce ourselves and talk about the course. 
+* We'll also play [*Novena*](https://haraiva.itch.io/novena) in class.  
+
+## Module 1: Why Genre? (Jan. 11 and 13)
+
+The purpose of this module is to spark our discussions about genre in games and how genre is an action. 
+
+*Wednesday, January 11th* 
+
+* Please review the syllabus and bring any questions or concerns you have to class. 
+* We'll finish our discussion of the syllabus, including the course policies, and then begin talking about genre as an action. I'll ask you to complete a worksheet about genre in class. Please remember to finish it and return it to me before you leave. 
+
+*Friday, January 13th* 
+
+* Please revisit the ["Assignments"](#assignments) section of this syllabus and bring any questions or concerns you have to class. 
+* We'll reflect on Wednesday's exercise and then look to [*Even the Ocean*](https://www.eventheocean.com/) to further consider how genre is an action and not (just) a category. 
+
+## Module 2: Genre in Literary Traditions (Jan. 17, 18, and 20)
+
+The purpose of this module is to survey approaches to genre in literary studies. Although they are distinct from the treatment of genre as an action, these approaches will inform how we think about genre in games. 
+
+*Tuesday, January 17th* 
+
+* Please read Bawarshi and Reiff's ["Genre in Literary Traditions"](https://wac.colostate.edu/docs/books/bawarshi_reiff/chapter2.pdf). You should engage this chapter purposefully and take notes as you read. Focus on the five approaches to genre (see the chapter's section headings) and see if you can put each into your own words. No worries if you find the chapter to be a bit dense. We'll distill it in class this week. 
+* We'll discuss the neoclassical approach to genre and test it by interpreting scenes from [*Return of the Obra Dinn*](https://obradinn.com/). 
+
+*Wednesday, January 18th* 
+
+* You might revisit ["Genre in Literary Traditions"](https://wac.colostate.edu/docs/books/bawarshi_reiff/chapter2.pdf) and bring your questions and concerns to class. What from Tuesday's class made sense? What remains muddy? 
+* We'll discuss structuralist, romantic, and post-romantic approaches to genre and test them by interpreting scenes from [*Portal 2*](https://www.thinkwithportals.com/).
+
+*Friday, January 20th*
+
+* You might return to your notes for ["Genre in Literary Traditions"](https://wac.colostate.edu/docs/books/bawarshi_reiff/chapter2.pdf) and bring your questions and concerns to class. Which of the five approaches to genre remain unclear to you? What are the appeals and limitations of each approach?  
+* We'll discuss reader response and cultural studies approaches to genre and test them by interpreting scenes from [*Unpacking*](https://www.unpackinggame.com/). 
+* I will circulate [*Take-Home Exam 1*](exam1.html) today and review the prompt in class. A response is due (via Brightspace) by Friday, February 3rd at 11:30am. 
+
+*Please note that Sunday, January 22nd is the last day for 100% reduction of second term fees for standard courses.*
+
+## Module 3: Genre Trouble in Games (Jan. 24, 25, and 27) 
+
+The purpose of this module is to introduce you to some debates about genre in game studies. We will also return to the notion of genre as an action. 
+
+*Tuesday, January 24th* 
+
+* Please read Vorhees's ["Genre Troubles in Game Studies"](https://www.kinephanos.ca/2019/genre-troubles-in-game-studies-ludology-agonism-and-social-action/). You should engage this article purposefully, too, and take notes as you read. Focus on the notions of "genre trouble," "ludological line," "agonistic line," and "agonistic pluralism" (see the chapter's section headings) and see if you can put each into your own words. No worries if you find the article to be a bit dense. We'll distill it in class this week. 
+* We'll discuss ludological and agonistic approaches to genre and test them by interpreting scenes from [*Firewatch*](https://www.firewatchgame.com/). 
+
+*Wednesday, January 25th* 
+
+* You might revisit ["Genre Troubles in Game Studies"](https://www.kinephanos.ca/2019/genre-troubles-in-game-studies-ludology-agonism-and-social-action/) and bring your questions and concerns to class. What from Tuesday's class made sense? What remains muddy? 
+* We'll discuss genre as a social action and test it by interpreting scenes from [*Umurangi Generation*](https://www.umurangigeneration.com/).
+
+*Please note that today is the last day for adding courses that begin this term.*
+
+*Friday, January 27th* 
+
+* Please visit this [list of games](https://docs.google.com/spreadsheets/d/1C6maql6wsx51M6B5YLhgS8cDdqwJXTajUE8Kv5McgLw/edit#gid=0), select *one* to play and study this term, and then respond to the brief online survey I circulated in Brightspace. You will write about this game for your [*Activity Analysis*](activity.html) and [*Player Story*](final.html). 
+* We'll review the last two modules and discuss how you might document, describe, and evaluate the activity of multiple genres in a single game. 
+
+## Module 4: Games as Activity Systems (Jan. 31; Feb. 1 and 3)
+
+The purpose of this module is to introduce you to the methodologies of activity theory in genre studies and the treatment of games as activity systems. 
+
+*Tuesday, January 31st* 
+
+* Please read Bawarshi and Reiff's ["Rhetorical Genre Studies"](https://wac.colostate.edu/docs/books/bawarshi_reiff/chapter6.pdf). You should engage this chapter purposefully, too, and take notes as you read. Try to put uptake, genre sets, and activity systems into your own words. Again, no worries if you find the chapter to be a bit dense. We'll distill it in class this week. 
+* We'll look to [*The Stanley Parable*](https://www.stanleyparable.com/) to better understand uptake, genre sets, and activity systems and to further engage multiple genres in a single game. 
+
+*Please note that today is the last day for paying second term fees without penalty.*
+
+*Wednesday, February 1st* 
+
+* You revisit ["Rhetorical Genre Studies"](https://wac.colostate.edu/docs/books/bawarshi_reiff/chapter6.pdf) after yesterday's discussion of uptake, genre sets, activity systems. What from Tuesday's class made sense? What remains muddy? 
+* Using yesterday's discussion of [*The Stanley Parable*](https://www.stanleyparable.com/) as an example, we'll collectively diagram [*Neo Cab*](https://www.fellowtraveller.games/neo-cab) as an activity system. Be sure to submit your response to this exercise before class is over. 
+
+*Friday, February 3rd* 
+
+* Your response to [*Take-Home Exam 1*](exam1.html) is due today by 11:30am. 
+* We'll conduct a review of what we've learned about games as activity systems. 
+* We'll also review the [*Activity Analysis*](activity.html) and [*Player Story*](final.html) prompts. 
+
+## Case Study 1: *80 Days* (Feb. 7, 8, and 10)
+
+The purpose of this case study is for us to apply activity theory to the work of multiple genres in a single game. The case study will begin to address some of the "how" questions you might have for your own work, including the Activity Analysis you're conducting for this course. 
+
+*Tuesday, February 7th* 
+
+* Please play or watch [*80 Days*](https://www.inklestudios.com/80days/) for about an hour. 
+* We'll identify who participates in the game of *80 Days* and what their motives and objectives might be. 
+
+*Wednesday, February 8th* 
+
+* Please play or watch [*80 Days*](https://www.inklestudios.com/80days/) for another hour. 
+* We'll attend to how multiple genres behave in *80 Days* and how they mediate people's motives and objectives, including matters of play and narrative. 
+
+*Friday, February 10th* 
+
+* You might revisit your notes from this week. What's clear? What isn't? Bring your questions and concerns about *80 Days* and activity theory to class. 
+* We'll compare *80 Days* with [*Card Shark*](https://www.nerial.co.uk/) to briefly consider how they resonate and differ as activity systems. 
+
+*Please note that Sunday, February 12th is the last day for a 50% reduction of tuition fees for standard courses.*
+
+## Case Study 2: *Gris* (Feb. 14, 15, and 17)
+
+The purpose of this case study is for us to apply activity theory to the work of multiple genres in a single game. The case study will continue to address some of the "how" questions you might have for your own work, including the Activity Analysis you're conducting for this course. 
+
+*Tuesday, February 14th* 
+
+* Please play or watch [*Gris*](https://nomada.studio/) for about an hour. 
+* We'll identify who participates in the game of *Gris* and what their motives and objectives might be. 
+
+*Wednesday, February 15th* 
+
+* Please play or watch [*Gris*](https://nomada.studio/) for another hour. 
+* We'll attend to how multiple genres behave in *Gris* and how they mediate people's motives and objectives, including matters of play and narrative. 
+
+*Friday, February 17th* 
+
+* I recommend submitting your response to the [Activity Analysis](activity.html) today by 11:30am. This way, you'll know 42.5% of your final mark by February 28th, which is the last day to withdraw from this course without penalty of failure.
+* We'll compare *Gris* with [*Inside*](https://playdead.com/games/inside/) to briefly consider how they resonate and differ as activity systems. 
+
+## Reading Break (Feb. 20-24)
+
+I wish you a wonderful and relaxing reading break. We don't have class this week, and Monday, February 20th is Family Day. 
+
+## Case Study 3: *Citizen Sleeper* (Feb. 28; Mar. 1 and 3)
+
+The purpose of this case study is for us to apply activity theory to the work of multiple genres in a single game. The case study will continue to address some of the "how" questions you might have for your own work, including the Activity Analysis you're conducting for this course. 
+
+*Tuesday, February 28th* 
+
+* Please play or watch [*Citizen Sleeper*](https://jumpovertheage.com/) for about an hour. 
+* We'll identify who participates in the game of *Citizen Sleeper* and what their motives and objectives might be. 
+
+*Please note that today is the last day to withdraw from full year and second term courses without penalty of failure.* 
+
+Tuesday, February 28th
+
+*Wednesday, March 1st* 
+
+* Your response to the [Activity Analysis](activity.html) is due today by 11:30am if you've not already submitted it. 
+* Please play or watch [*Citizen Sleeper*](https://jumpovertheage.com/) for another hour. 
+* We'll attend to how multiple genres behave in *Citizen Sleeper* and how they mediate people's motives and objectives, including matters of play and narrative. 
+
+*Friday, March 3rd* 
+
+* You might revisit your notes from this week. What's clear? What isn't? Bring your questions and concerns about *Citizen Sleeper* and activity theory to class. 
+* We'll compare *Citizen Sleeper* with [*Oxenfree*](https://nightschoolstudio.com/oxenfree/) and [*Eliza*](https://www.zachtronics.com/eliza/) to briefly consider how they resonate and differ as activity systems. 
+
+## Module 5: Composing Player Stories (Mar. 7, 8, and 10)
+
+The purpose of this module is to communicate the process of a Player Story, reflect on it, and evaluate it. We'll sketch narrative descriptions of three different games by attending specifically to the activity of multiple genres in each of them. We'll also address genre contradiction in games, how Player Stories are both personal and social, and why their authors toggle between immersion and critical distance. 
+
+*Tuesday, March 7th* 
+
+* Please review the [Player Stories](final.html) prompt and bring any questions or concerns you have to class. 
+* We'll sketch ways of approaching a Player Story about [*Kentucky Route Zero*](http://kentuckyroutezero.com/). 
+
+*Wednesday, March 8th* 
+
+* Please revisit your notes about *Kentucky Route Zero*, including possible Player Stories about it. What stuck? What's still unclear? 
+* We'll sketch ways of approaching a Player Story about [*Never Alone (Kisima Ingitchuna)*](http://neveralonegame.com/). 
+* I will circulate [*Take-Home Exam 2*](exam2.html) today and review the prompt in class. A response is due (via Brightspace) by Wednesday, March 22nd at 11:30am. 
+
+*Friday, March 10th* 
+
+* Please revisit your notes about *Never Alone (Kisima Ingitchuna)*, including possible Player Stories about it. What stuck? What's still unclear?
+* We'll sketch ways of approaching a Player Story about [*To the Moon*](https://freebirdgames.com/games/to-the-moon/). 
+
+## Activity Snapshots of Player Stories (Mar. 14 - 24)
+
+The purpose of these nine "activity snapshots" is to demonstrate what Player Stories can do with activity theories of genre and games. Each snapshot will be mostly lecture, and all of them will focus on moments of intricate contradiction as multiple genres unfold in a single game. They are also meant to help you prepare your own Player Story for submission in April.  
+
+*Tuesday, March 14th*  
+
+* Please review my documentation (in Brightspace) of *Signalis* and *NORCO*.
+* I'll share my snapshots of these two games during class. 
+
+*Wednesday, March 15th* 
+
+* Please review my documentation (in Brightspace) of *That Dragon, Cancer* and *Butterfly Soup*.  
+* I'll share my snapshots of these two games during class. 
+
+*Friday, March 17th* 
+
+* Please review my documentation (in Brightspace) of *Get in the Car, Loser!* and *Strange Horticulture*. 
+* I'll share my snapshots of these two games during class. 
+
+*Tuesday, March 21st* 
+
+* Please review my documentation (in Brightspace) of *Immortality*.
+* I'll share my snapshot of this game during class. 
+
+*Wednesday, March 22nd* 
+
+* Your response to [*Take-Home Exam 2*](exam2.html) is due today by 11:30am. 
+* Please review my documentation (in Brightspace) of *When Rivers Were Trails*.
+* I'll share my snapshot of this game during class.  
+
+*Friday, March 24th* 
+
+* Please review my documentation (in Brightspace) of *Night in the Woods*. 
+* I'll share my snapshot of this game during class. 
+  
+## Workshops (Mar. 28, 29, and 31)
+
+The purpose of these workshops is to help you to refine your Player Story well before it's due on Tuesday, April 18th.
+
+*Tuesday, March 28th* 
+
+* You selected a game to study and play all term. Please bring some documentation (images, audio, and/or video) of your play sessions to class. 
+* I'll circulate a worksheet on documentation for you to complete individually in small groups. Please return the worksheet to me before you leave class. 
+
+*Wednesday, March 29th* 
+
+* Please bring to class any notes you have on the conflicting player motives you've observed in the game you're studying. 
+* I'll circulate a worksheet on motives for you to complete individually in small groups. Please return the worksheet to me before you leave class. 
+
+*Friday, March 31st* 
+
+* Please bring to class any notes you have on contradictions between two or more genresin the game you're studying. 
+* I'll circulate a worksheet on genre sets and contradiction for you to complete individually in small groups. Please return the worksheet to me before you leave class. 
+
+## Review (Apr. 4 and 5)
+
+We did it! It's review time. 
+
+*Tuesday, April 4th* 
+
+* We'll review what we learned in English 391 this term. 
+* I'll address your questions about genre, games, and activity theory. 
+
+*Wednesday, April 5th* 
+
+* We'll celebrate the end of term, and I'll address any last-minute concerns you have about the Player Story, which is due by Tuesday, April 18th. 
+* We'll complete Course Experience Surveys in class. 
+
+*Please note that Thursday, April 6th is the last day of classes for all faculties.*
+
+## Roll Credits (Apr. 18)
+
+*Tuesday, April 18th* 
+
+* Your [Player Story](final.html) is due today by 11:30am. 
+
+I hope you've a wonderful summer! Keep in touch. 
 
 # Policies 
 
@@ -166,11 +418,17 @@ I will use UVic's [official grading system](https://www.uvic.ca/calendar/undergr
 
 All assignments should be submitted via Brightspace. I will also use Brightspace to provide feedback on your work. If you ever want additional feedback, then feel free to ask me. I can provide it in person or via email. 
 
-Throughout the term, I'll request feedback (verbal and in writing) from you on how the course is going. I'll also ask you to complete Course Experience Surveys at the end of the term (during our last meeting).
+Throughout the term, I'll request feedback from you on how the course is going. I'll also ask you to complete Course Experience Surveys at the end of the term (during our last meeting on Wednesday, April 5th).
 
 ### Late Submissions and Extensions
 
-I will deduct three points per working day (excluding holidays and weekends) for every assignment submitted more than one week (five working days) late. Please email me if you need an extension.    
+For the [Activity Analysis](activity.html), I will deduct three points per working day (excluding holidays and weekends) for every submission I receive after Wednesday, March 8th at 11:30am. This gives you one week of wiggle room for this assignment, which is due by Wednesday, March 1st at 11:30am. 
+
+For Take-Home Exams [1](exam1.html) and [2](exam2.html), I will deduct three points per working day (excluding holidays and weekends) for every submission I receive after Friday, February 3rd at 11:30am and Wednesday, March 22nd at 11:30am, respectively. This does not include wiggle room for late submissions; however, you will have two weeks to complete these two exams. 
+
+For the [Player Story](final.html), I will deduct five points per working day (excluding holidays and weekends) for every submission I receive after Wednesday, April 19th at 11:30am. This gives you one day of wiggle room for your final project. I will close the Brightspace submission portal for the Player Story assignment at 11:30am on Monday, April 24th.  
+
+Please email me if you need an extension for any assignment, and we can discuss possibilities on a case-by-case basis.    
 
 ### Attendance and Participation
 
