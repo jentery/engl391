@@ -159,17 +159,17 @@ Here's the schedule for the term. It's subject to change. I will use a Brightspa
 
 ## Module 1: Why Genre? (Jan. 11 and 13)
 
-The purpose of this module is to spark our discussions about genre in games and how genre is an action. 
+The purpose of this module is to spark discussion about genre in games and to start thinking about how genre is an action.
 
 *Wednesday, January 11th* 
 
 * Please review the syllabus and bring any questions or concerns you have to class. 
-* We'll finish our discussion of the syllabus, including the course policies, and then begin talking about genre as an action. I'll ask you to complete a worksheet about genre in class. Please remember to finish it and return it to me before you leave. 
+* We’ll finish our discussion of the syllabus, including the course policies, and then begin talking about how genre is an action. I’ll ask you to complete a worksheet about genre in class. Please remember to finish it and return it to me before you leave.
 
 *Friday, January 13th* 
 
-* Please revisit the ["Assignments"](#assignments) section of this syllabus and bring any questions or concerns you have to class. 
-* We'll reflect on Wednesday's exercise and then look to [*Even the Ocean*](https://www.eventheocean.com/) to further consider how genre is an action and not (just) a category. 
+* Please revisit the ["Assignments"](#assignments) section of the syllabus and bring any questions or concerns you have to class. 
+* We'll reflect on Wednesday's exercise and then look to [*Even the Ocean*](https://www.eventheocean.com/) as an example of how genre is an action and not (just) a category. 
 
 ## Module 2: Genre in Literary Traditions (Jan. 17, 18, and 20)
 
@@ -177,7 +177,7 @@ The purpose of this module is to survey approaches to genre in literary studies.
 
 *Tuesday, January 17th* 
 
-* Please read Bawarshi and Reiff's ["Genre in Literary Traditions"](https://wac.colostate.edu/docs/books/bawarshi_reiff/chapter2.pdf). You should engage this chapter purposefully and take notes as you read. Focus on the five approaches to genre (see the chapter's section headings) and see if you can put each into your own words. No worries if you find the chapter to be a bit dense. We'll distill it in class this week. 
+* Please read Bawarshi and Reiff's ["Genre in Literary Traditions."](https://wac.colostate.edu/docs/books/bawarshi_reiff/chapter2.pdf) You should engage this chapter purposefully and take notes as you read. Focus on the five approaches to genre (see the chapter's section headings) and see if you can put each into your own words. No worries if you find the chapter to be a bit dense. We'll distill it in class this week. 
 * We'll discuss the neoclassical approach to genre and test it by interpreting scenes from [*Return of the Obra Dinn*](https://obradinn.com/). 
 
 *Wednesday, January 18th* 
@@ -187,7 +187,7 @@ The purpose of this module is to survey approaches to genre in literary studies.
 
 *Friday, January 20th*
 
-* You might return to your notes for ["Genre in Literary Traditions"](https://wac.colostate.edu/docs/books/bawarshi_reiff/chapter2.pdf) and bring your questions and concerns to class. Which of the five approaches to genre remain unclear to you? What are the appeals and limitations of each approach?  
+* You might return to your notes for ["Genre in Literary Traditions"](https://wac.colostate.edu/docs/books/bawarshi_reiff/chapter2.pdf) and bring your questions and concerns to class. Which of the five approaches to genre remains most unclear to you? What are the appeals and limitations of each approach?  
 * We'll discuss reader response and cultural studies approaches to genre and test them by interpreting scenes from [*Unpacking*](https://www.unpackinggame.com/). 
 * I will circulate [*Take-Home Exam 1*](exam1.html) today and review the prompt in class. A response is due (via Brightspace) by Friday, February 3rd at 11:30am. 
 
@@ -216,18 +216,18 @@ The purpose of this module is to introduce you to some debates about genre in ga
 
 ## Module 4: Games as Activity Systems (Jan. 31; Feb. 1 and 3)
 
-The purpose of this module is to introduce you to the methodologies of activity theory in genre studies and the treatment of games as activity systems. 
+The purpose of this module is to introduce you to the methodology of activity theory in genre studies and to the treatment of games as activity systems.
 
 *Tuesday, January 31st* 
 
 * Please read Bawarshi and Reiff's ["Rhetorical Genre Studies"](https://wac.colostate.edu/docs/books/bawarshi_reiff/chapter6.pdf). You should engage this chapter purposefully, too, and take notes as you read. Try to put uptake, genre sets, and activity systems into your own words. Again, no worries if you find the chapter to be a bit dense. We'll distill it in class this week. 
 * We'll look to [*The Stanley Parable*](https://www.stanleyparable.com/) to better understand uptake, genre sets, and activity systems and to further engage multiple genres in a single game. 
 
-*Please note that today is the last day for paying second term fees without penalty.*
+*Please note that today is the last day for paying second-term fees without penalty.*
 
 *Wednesday, February 1st* 
 
-* You revisit ["Rhetorical Genre Studies"](https://wac.colostate.edu/docs/books/bawarshi_reiff/chapter6.pdf) after yesterday's discussion of uptake, genre sets, activity systems. What from Tuesday's class made sense? What remains muddy? 
+* You might revisit ["Rhetorical Genre Studies"](https://wac.colostate.edu/docs/books/bawarshi_reiff/chapter6.pdf) after yesterday's discussion of uptake, genre sets, and activity systems. What from Tuesday's class made sense? What remains muddy? 
 * Using yesterday's discussion of [*The Stanley Parable*](https://www.stanleyparable.com/) as an example, we'll collectively diagram [*Neo Cab*](https://www.fellowtraveller.games/neo-cab) as an activity system. Be sure to submit your response to this exercise before class is over. 
 
 *Friday, February 3rd* 
@@ -289,9 +289,7 @@ The purpose of this case study is for us to apply activity theory to the work of
 * Please play or watch [*Citizen Sleeper*](https://jumpovertheage.com/) for about an hour. 
 * We'll identify who participates in the game of *Citizen Sleeper* and what their motives and objectives might be. 
 
-*Please note that today is the last day to withdraw from full year and second term courses without penalty of failure.* 
-
-Tuesday, February 28th
+*Please note that today is the last day to withdraw from full-year and second-term courses without penalty of failure.* 
 
 *Wednesday, March 1st* 
 
@@ -306,7 +304,7 @@ Tuesday, February 28th
 
 ## Module 5: Composing Player Stories (Mar. 7, 8, and 10)
 
-The purpose of this module is to communicate the process of a Player Story, reflect on it, and evaluate it. We'll sketch narrative descriptions of three different games by attending specifically to the activity of multiple genres in each of them. We'll also address genre contradiction in games, how Player Stories are both personal and social, and why their authors toggle between immersion and critical distance. 
+The purpose of this module is to communicate the process of a Player Story, reflect on it, and evaluate it. We'll sketch narrative descriptions of three different games by attending to the activity of multiple genres in each of them. We'll also address genre contradiction in games, how Player Stories are both personal and social, and why their authors toggle between immersion and critical distance. 
 
 *Tuesday, March 7th* 
 
@@ -326,7 +324,7 @@ The purpose of this module is to communicate the process of a Player Story, refl
 
 ## Activity Snapshots of Player Stories (Mar. 14 - 24)
 
-The purpose of these nine "activity snapshots" is to demonstrate what Player Stories can do with activity theories of genre and games. Each snapshot will be mostly lecture, and all of them will focus on moments of intricate contradiction as multiple genres unfold in a single game. They are also meant to help you prepare your own Player Story for submission in April.  
+The purpose of these nine “activity snapshots” is to demonstrate what Player Stories can do with activity theories of genre and games. Each snapshot will be mostly lecture, and all of them will focus on moments of intricate contradiction where multiple genres unfold simultaneously in a single game. The snapshots are also meant to help you prepare your own Player Story for submission in April.
 
 *Tuesday, March 14th*  
 
@@ -370,12 +368,12 @@ The purpose of these workshops is to help you to refine your Player Story well b
 
 *Wednesday, March 29th* 
 
-* Please bring to class any notes you have on the conflicting player motives you've observed in the game you're studying. 
+* Please bring to class any notes you have on some conflicting player motives you've observed in the game you're studying. 
 * I'll circulate a worksheet on motives for you to complete individually in small groups. Please return the worksheet to me before you leave class. 
 
 *Friday, March 31st* 
 
-* Please bring to class any notes you have on contradictions between two or more genresin the game you're studying. 
+* Please bring to class any notes you have on some contradictions between two or more genresin the game you're studying. 
 * I'll circulate a worksheet on genre sets and contradiction for you to complete individually in small groups. Please return the worksheet to me before you leave class. 
 
 ## Review (Apr. 4 and 5)
@@ -422,11 +420,11 @@ Throughout the term, I'll request feedback from you on how the course is going. 
 
 ### Late Submissions and Extensions
 
-For the [Activity Analysis](activity.html), I will deduct three points per working day (excluding holidays and weekends) for every submission I receive after Wednesday, March 8th at 11:30am. This gives you one week of wiggle room for this assignment, which is due by Wednesday, March 1st at 11:30am. 
+For the [Activity Analysis](activity.html), I will deduct *three* points per working day (excluding holidays and weekends) for every submission I receive after Wednesday, March 8th at 11:30am. This gives you one week of wiggle room for this assignment, which is due by Wednesday, March 1st at 11:30am. I will close the Brightspace submission portal for the Activity Analysis assignment at 11:30am on Wednesday, March 22nd.
 
-For Take-Home Exams [1](exam1.html) and [2](exam2.html), I will deduct three points per working day (excluding holidays and weekends) for every submission I receive after Friday, February 3rd at 11:30am and Wednesday, March 22nd at 11:30am, respectively. This does not include wiggle room for late submissions; however, you will have two weeks to complete these two exams. 
+For Take-Home Exams [1](exam1.html) and [2](exam2.html), I will deduct *five* points per working day (excluding holidays and weekends) for every submission I receive after Friday, February 3rd at 11:30am and Wednesday, March 22nd at 11:30am, respectively. This does not include wiggle room for late submissions; however, you will have two weeks to complete each of these exams. I will close the Brightspace submission portal for Take-Home Exams 1 and 2 at 11:30am on Friday, February 10th and Wednesday, March 29th, respectively.
 
-For the [Player Story](final.html), I will deduct five points per working day (excluding holidays and weekends) for every submission I receive after Wednesday, April 19th at 11:30am. This gives you one day of wiggle room for your final project. I will close the Brightspace submission portal for the Player Story assignment at 11:30am on Monday, April 24th.  
+For the [Player Story](final.html),  I will deduct *five* points per working day (excluding holidays and weekends) for every submission I receive after Wednesday, April 19th at 11:30am. This gives you one day of wiggle room for your final project. I will close the Brightspace submission portal for the Player Story assignment at 11:30am on Monday, April 24th.
 
 Please email me if you need an extension for any assignment, and we can discuss possibilities on a case-by-case basis.    
 
@@ -468,10 +466,10 @@ I aim to create an inclusive learning environment that attends to difference and
 
 The following student groups may be relevant to your life as a student here at UVic: 
 
-* [The Native Students Union](https://www.uvicnsu.ca/home) "is a community group for Indigenous students at UVic. Our space in the SUB is open to self-identifying Indigenous students who want to work, study, lounge, have lunch, or connect with other students. We're also located in the First Peoples House. Our weekly meetings are an opportunity for students to connect, plan events, share resources, or work on any student-led initiatives on student wellness, culture, Indigenous resurgence, and decolonization." 
-* [The Students of Colour Collective](https://soccollective.com/) "is a group of self-identified Black, Indigenous and/or Persons of colour operating as an advocacy group out of the University of Victoria, located on Lekwungen Homelands. We are committed to cultural awareness, mental health, anti-racism, and social justice. SOCC welcomes and encourages all students who self identify as Black, Indigenous and/or Persons of colour at UVic to become active members."
-* [The Society for Students with a Disability (SSD)](https://uvicssd.ca/) "is a student advocacy group that promotes the full participation and inclusion of students identified with disabilities at the University of Victoria. The SSD provides a welcoming, safe, and supportive environment for all students identified with disabilities. The SSD advocates for individual accommodation and systemic changes to the University that will make post-secondary education more accessible and socially just."
-* [The Gender Empowerment Centre (GEM)](https://genderempowermentcentre.ca/) "is a collectively run, drop-in space on campus that provides resources through an intersectional feminist framework. GEM offers free access to a large variety of safer sex supplies, menstrual supplies (including FREE menstrual cups) pregnancy tests and emergency contraceptives. They provide health resources, peer support, as well as a lounge space to hang out, study, and meet others."
+* [The Native Students Union](https://www.uvicnsu.ca/home) "is an organization run for and by Indigenous students at UVic. Since circa 1969, Indigenous students have been coming together to form community, support each other, advocate for Indigenous rights and wellbeing, and just exist together at the institution. The NSU runs events and programs, manages a student space with services, and advocates for Indigenous student success and wellness at UVic. The NSU Council leads the NSU in running and developing these services." 
+* [The Students of Colour Collective](https://soccollective.com/) "are a Collective of self-identified people of colour at the University of Victoria. Anyone identifying as BIPOC (Black, Indigenous and Person of Colour) is welcome to use our lounge and access our resources. SOCC exists to create space that fosters community building, and facilitates networking and gatherings for self-identified BIPOC folks. Our work centres on art, awareness, education, action, advocacy, and support. Every student of colour is welcome to get in touch and find out how to get involved."
+* [The Society for Students with a Disability (SSD)](https://uvicssd.ca/) "is a post-secondary student advocacy group under the University of Victoria Students’ Union which promotes the full participation and inclusion of students who self-identify as having one or more disabilities at the University of Victoria. The SSD aims to support students who self-identify as having one or more disabilities; in particular, we support students to reduce barriers in the social, emotional, and educational domains of student life."
+* [The Gender Empowerment Centre (GEM)](https://genderempowermentcentre.ca/) "is an inclusive space, focused on the needs of self-identified women, non-binary, trans and gender non-conforming folks to organize, network, access resources, attend workshops and events, study, and relax. Our space is open to both University of Victoria students and community members."
 * [UVic Pride](https://www.prideuvic.com/) "is an organization for all people who are queer, queer-positive, gender-variant and/or intersex. We strive to meet the needs of people who self-identify as queer (including but not limited to people who identify as Two Spirit, bisexual, lesbian, gay, asexual, demisexual, aromantic, and pansexual, as well as people who do not identify with these labels); trans people; those who are questioning their sexuality or gender; those who are struggling with concerns related to intersexuality; and supportive partners, friends, family members, and allies."
 
 *Language for this policy was drawn from the Harriet W. Sheridan Center for Teaching and Learning at Brown University and the work of Monica Linden in particular.*
