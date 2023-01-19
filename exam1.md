@@ -48,13 +48,9 @@ Each of the following questions is worth *5 points* for a total of 25 points in 
 *Point form and incomplete sentences are preferred.* Please do not use more than *100 words* per response. (I will use a word counting tool during assessment.) Do not include audio, images, or video in your answers. 
 
 1. What are *two* limitations of the "neoclassical" approach to genre? 
-
 2. What are *two* limitations of the "structuralist" approach to genre? 
-
 3. What are *two* limitations of the "romantic" approach to genre? 
-
 4. What are *two* limitations of the "reader response" approach to genre? 
-
 5. If genre is an action, then what are *two* things it does in games? 
 
 ## Section 2 
@@ -67,13 +63,9 @@ Please also *refrain from interpreting the same game* in more than one response.
 
 <ol start=6>
 <li>Define "uptake" in genre studies and explain it using an example from a game documented in the media collection.</li>
-  
 <li>Define "genre set" in genre studies and explain it using an example from a game documented in the media collection.</li>
-  
 <li>Define "mechanic" in game studies and explain how it shapes genre expectations in a game documented in the media collection.</li>
-  
 <li>Identify a story element in genre studies and use an example to explain how it shapes genre expectations in a game documented in the media collection.</li>
-  
 <li>Use an example from a game documented in the media collection to explain the co-existence of convention and creativity in genre studies. </li>
 </ol>
   
