@@ -9,7 +9,7 @@ This is your first of two exams in English 391, and it covers material and meeti
 
 The exam is *open-book*, meaning you are allowed to use your notes, assigned readings, the library, and the internet to respond to the questions.
 
-You are *not* expected to refer to anything other than English 391 lectures (including your notes), the "Video Game Documentation" media collection (in Brightspace), and "Genre in Literary Traditions" and "Rhetorical Genre Studies," by Anis S. Bawarshi and Mary Jo Reiff.
+You are *not* expected to refer to anything other than English 391 lectures (including your notes), the "Video Game Documentation" media collection (in Brightspace), and "Genre in Literary Traditions" and "Rhetorical Genre Studies" by Anis S. Bawarshi and Mary Jo Reiff.
 
 ## Download the Exam 
 
