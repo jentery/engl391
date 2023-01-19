@@ -102,13 +102,13 @@ To respond to Take-Home Exam 1, please submit a DOCX, ODT, PAGES, or PDF file co
 
 Please do not forget to cite *games* from which you draw examples. Here's a sample MLA reference entry for a game we've studied in class: 
 
-Han-Tani, Melos and Marina Kittaka. *Even the Ocean*. Analgesic Productions, 2016. 
+* Han-Tani, Melos and Marina Kittaka. *Even the Ocean*. Analgesic Productions, 2016. 
 
 Columns A, B, C, and D in [this spreadsheet](https://bit.ly/3Im7Tg8) provide you with all the information you need to reference games in the media collection. 
 
 Finally, you are welcome to use this MLA reference entry for Bawarshi and Reiff's work when quoting or paraphrasing it in your exam: 
 
-Bawarshi, Anis S. and Mary Jo Reiff. *Genre: An Introduction to History Theory Research and Pedagogy*. Parlor Press, 2010.
+* Bawarshi, Anis S. and Mary Jo Reiff. *Genre: An Introduction to History Theory Research and Pedagogy*. Parlor Press, 2010.
 
 ## When to Submit It
 
