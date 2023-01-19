@@ -34,12 +34,12 @@ This open-book exam is ten short-answer questions divided into two sections, whi
 
 By responding to this exam, you confirm that: 
 
-1. You followed UVic academic regulations and observed standards of scholarly integrity (e.g., no plagiarism or cheating). 
-2. You completed this exam *individually* and not with a friend, classmate, or group.
-3. You did not share your answers with anyone else, including your peers in this course, at any time. 
-4. You did not give or receive any aid on this exam. (The use of a spell and/or grammar checker on your computer is permitted.)
-5. Each response to every exam question is your own, excluding quoted and paraphrased material that is clearly cited. 
-6. You cited any sources, including assigned reading and internet sources, that you used to answer the exam questions. 
+* You followed UVic academic regulations and observed standards of scholarly integrity (e.g., no plagiarism or cheating). 
+* You completed this exam *individually* and not with a friend, classmate, or group.
+* You did not share your answers with anyone else, including your peers in this course, at any time. 
+* You did not give or receive any aid on this exam. (The use of a spell and/or grammar checker on your computer is permitted.)
+* Each response to every exam question is your own, excluding quoted and paraphrased material that is clearly cited. 
+* You cited any sources, including assigned reading and internet sources, that you used to answer the exam questions. 
 
 ## Section 1 
 
@@ -67,9 +67,13 @@ Please also *refrain from interpreting the same game* in more than one response.
 
 <ol start=6>
 <li>Define "uptake" in genre studies and explain it using an example from a game documented in the media collection.</li>
+  
 <li>Define "genre set" in genre studies and explain it using an example from a game documented in the media collection.</li>
+  
 <li>Define "mechanic" in game studies and explain how it shapes genre expectations in a game documented in the media collection.</li>
+  
 <li>Identify a story element in genre studies and use an example to explain how it shapes genre expectations in a game documented in the media collection.</li>
+  
 <li>Use an example from a game documented in the media collection to explain the co-existence of convention and creativity in genre studies. </li>
 </ol>
   
