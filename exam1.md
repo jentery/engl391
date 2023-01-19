@@ -65,7 +65,7 @@ Each of the following questions is worth *15 points* for a total of 75 points in
 
 Please also *refrain from interpreting the same game* in more than one response. See the ["Video Game Documentation" media collection](https://echo360.ca/collection/bf01c137-2a45-4c6b-8e6e-88906a44b7aa/public) for video files you may interpret. For the sake of brevity in the following questions, I refer to this collection as "the media collection." You may also want to consult [this spreadsheet](https://bit.ly/3Im7Tg8) of games we are studying in English 391. 
 
-6. Define "uptake" in genre studies and explain it using an example from a game documented in the media collection. 
+6. Define "uptake" in genre studies and explain it using an example from a game documented in the media collection.  { start=6 }
 
 7. Define "genre set" in genre studies and explain it using an example from a game documented in the media collection. 
 
