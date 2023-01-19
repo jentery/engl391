@@ -65,16 +65,14 @@ Each of the following questions is worth *15 points* for a total of 75 points in
 
 Please also *refrain from interpreting the same game* in more than one response. See the ["Video Game Documentation" media collection](https://echo360.ca/collection/bf01c137-2a45-4c6b-8e6e-88906a44b7aa/public) for video files you may interpret. For the sake of brevity in the following questions, I refer to this collection as "the media collection." You may also want to consult [this spreadsheet](https://bit.ly/3Im7Tg8) of games we are studying in English 391. 
 
-6. Define "uptake" in genre studies and explain it using an example from a game documented in the media collection.  { start=6 }
-
-7. Define "genre set" in genre studies and explain it using an example from a game documented in the media collection. 
-
-8. Define "mechanic" in game studies and explain how it shapes genre expectations in a game documented in the media collection. 
-
-9. Identify a story element in genre studies and use an example to explain how it shapes expectations in a game documented in the media collection. 
-
-10. Use an example from a game documented in the media collection to explain the co-existence of convention and creativity in genre studies. 
-
+<ol start=6>
+<li>Define "uptake" in genre studies and explain it using an example from a game documented in the media collection.</li>
+<li>Define "genre set" in genre studies and explain it using an example from a game documented in the media collection.</li>
+<li>Define "mechanic" in game studies and explain how it shapes genre expectations in a game documented in the media collection.</li>
+<li>Identify a story element in genre studies and use an example to explain how it shapes genre expectations in a game documented in the media collection.</li>
+<li>Use an example from a game documented in the media collection to explain the co-existence of convention and creativity in genre studies. </li>
+</ol>
+  
 ## Assessment 
 
 I will use the following rubric, based on [UVic's official grading system](https://www.uvic.ca/calendar/undergrad/index.php#/policy/S1AAgoGuV?bc=true&bcCurrent=14%20-%20Grading&bcGroup=Undergraduate%20Academic%20Regulations&bcItemType=policies), to assess each of your responses in Section 1 (worth a total of 25 points), where "course material" includes lectures, assigned readings, discussions, and files in the "Video Game Documentation" media collection: 
