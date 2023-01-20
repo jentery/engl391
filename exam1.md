@@ -113,3 +113,5 @@ Finally, you are welcome to use this MLA reference entry for Bawarshi and Reiff'
 ## When to Submit It
 
 Please submit your response to Take-Home Exam 1 via Brightspace by Friday, February 3rd at 11:30am.
+
+I will deduct five points per working day (excluding holidays and weekends) for every submission I receive after Friday, February 3rd at 11:30am. I will close the Brightspace submission portal for this exam at 11:30am on Friday, February 10th.
