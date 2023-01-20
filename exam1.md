@@ -13,7 +13,7 @@ You are *not* expected to refer to anything other than English 391 lectures (inc
 
 ## Download the Exam 
 
-Please [download the exam](english391TakeHomeExam1.docx) (DOCX format) to complete it in Microsoft Word, Google Docs, OpenOffice, LibreOffice, or Pages for Mac. You are also welcome to copy the questions and paste them into a word processor to answer them. I do not recommend this approach because it's riskier than simply downloading the exam. If you nevertheless decide to copy and paste the questions, then please ensure you include the Academic Integrity statement and a list of works cited / references (see below) in your response to the exam. 
+Please [download the exam](english391Exam1.docx) (DOCX format) to complete it in Microsoft Word, Google Docs, OpenOffice, LibreOffice, or Pages for Mac. You are also welcome to copy the questions and paste them into a word processor to answer them. I do not recommend this approach because it's riskier than simply downloading the exam. If you nevertheless decide to copy and paste the questions, then please ensure you include the Academic Integrity statement and a list of works cited / references (see below) in your response to the exam. 
 
 If you need the exam in a format other than DOCX, then please let me know ASAP, and I'll make it happen ASAP. 
 
