@@ -4,7 +4,7 @@ Spring 2023 at the University of Victoria
 [lək̓ʷəŋən](https://www.songheesnation.ca/community/l-k-ng-n-traditional-territory) and [<u>W</u>SÁNEĆ](https://wsanec.com/) territories  
 TWF, 11:30am - 12:20pm    
 Taught by [Jentery Sayers](https://jntry.work/) (he / him)      
-Office hours: W, 10-11am in CLE D331    
+Office hours: W, 1-2pm in CLE D331    
 [jentery@uvic.ca](mailto:jentery@uvic.ca)
 
 View this document in [PDF](engl391Syllabus2023Sayers.pdf). 
@@ -434,7 +434,7 @@ There is no participation or attendance mark in this course; however, I will tak
 
 ### Communications and Office Hours
 
-The best way to communicate with me is by email ([jentery@uvic.ca](mailto:jentery@uvic.ca)) or during office hours, which are Wednesday, 10-11am in CLE D331. I can also make an appointment to meet with you in person or via Zoom. 
+The best way to communicate with me is by email ([jentery@uvic.ca](mailto:jentery@uvic.ca)) or during office hours, which are Wednesday, 1-2pm in CLE D331. I can also make an appointment to meet with you in person or via Zoom. 
 
 I respond to email between 9am and 5pm, Monday through Friday, excluding holidays. 
 
