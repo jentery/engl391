@@ -5,7 +5,7 @@ Taught by Jentery Sayers (he / him)
 
 # Activity Analysis
 
-This assignment prompts you to attend to the [game you selected](https://docs.google.com/spreadsheets/d/1C6maql6wsx51M6B5YLhgS8cDdqwJXTajUE8Kv5McgLw/edit#gid=0) to study this term by treating it as an activity system. The assignment should also prepare you to compose your [player story](final.html) for the course. 
+This assignment prompts you to attend to a game by treating it as an activity system. The assignment should also prepare you to compose your [player story](final.html) for the course. 
 
 ## Before You Respond
 
