@@ -31,3 +31,26 @@ For you to:
 * Describe and analyze a [game](https://docs.google.com/spreadsheets/d/1C6maql6wsx51M6B5YLhgS8cDdqwJXTajUE8Kv5McgLw/edit#gid=0) by treating it as an activity system. 
 * Document that game and your experience as you play it, and
 * Communicate what you learned to other people in this course, including me. 
+
+## Format and Audience 
+
+This assignment consists of ten short-answer questions accompanied by video game documentation (four videos or images). 
+
+Your audience consists of your peers and me. You can assume we have played the game you selected and understand the fundamentals of activity theory and genre studies.   
+
+## Academic Integrity 
+
+By responding to this assignment, you confirm that: 
+
+* You followed UVic academic regulations and observed standards of scholarly integrity (e.g., no plagiarism or cheating). 
+* You completed this assignment *individually* and not with a friend, classmate, or group.
+* Each response to every question is your own, excluding quoted and paraphrased material that is clearly cited. 
+* You cited any sources, including assigned reading and internet sources, that you used to answer the questions. 
+
+## The Ten Questions
+
+Each of the following questions is worth *10 points* for a total of 100 points. Your responses should demonstrate your *understanding and application* of pertinent course material, including activity theory, lectures, assigned reading, and discussions. (See "Assessment" below for details.) 
+
+*Complete sentences are preferred.* Please do not use more than *150 words* per response. (I will use a word counting tool during assessment.) 
+
+Any video you attach should be no longer than *30 seconds*. All supporting game documentation should be yours, and you should only attach an image or video when the question asks for it. You can use file names (e.g., "portal2Mechanic.png" or "evenTheOceanArt.mov") in your writing to refer to attachments or you can simply insert images or video into the document. 
