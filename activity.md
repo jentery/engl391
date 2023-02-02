@@ -5,15 +5,15 @@ Taught by Jentery Sayers (he / him)
 
 # Activity Analysis
 
-This assignment prompts you to attend to a game by treating it as an activity system. The assignment should also prepare you to compose your [player story](final.html) for the course. 
+This assignment preps you to compose your [player story](final.html) by prompting you to attend to a game and treat it as an activity system. 
 
 ## Before You Respond
 
 * Review the ten questions below and email me any concerns you have. 
 * Also review the "Video Games as Activity Systems" diagram I shared during class in February. 
 * Select a game from [this list](https://docs.google.com/spreadsheets/d/1C6maql6wsx51M6B5YLhgS8cDdqwJXTajUE8Kv5McgLw/edit#gid=0) to study this term. 
-* Play the game for at least an hour (but ideally two). You do *not* need to complete it to respond to this prompt. 
-* Document the game and your experience as you play it. Keep those ten questions in mind as you do. Your documentation doesn't need to be high-tech. You can use your phone (if you have one) to take photos or a computer or console to take screen grabs. You'll want at least four images or videos for this assignment.  
+* Play that game for at least an hour but ideally two. You do *not* need to complete the game or roll credits to respond to this prompt. 
+* Document the game and your experience as you play it. Keep those ten questions in mind as you do. Your documentation doesn't need to be high-tech. You can use either your phone (if you have one) to take photos or a computer or console to take screen grabs. You'll want at least four images or videos for this assignment.  
 
 ## Download the Assignment
 
@@ -25,7 +25,9 @@ Note that the downloadable copy of the assignment does *not* contain all the inf
 
 ## Aims
 
+For you to: 
+
 * Demonstrate your knowledge of activity theory and apply it to genre studies of games.  
-* Describe the [game you selected](https://docs.google.com/spreadsheets/d/1C6maql6wsx51M6B5YLhgS8cDdqwJXTajUE8Kv5McgLw/edit#gid=0) to study this term by treating it as an activity system. 
-* Document your play and experiences with that game, and
-* Communicate what you've learned thus far to other people in this course, including me. 
+* Describe and analyze a [game](https://docs.google.com/spreadsheets/d/1C6maql6wsx51M6B5YLhgS8cDdqwJXTajUE8Kv5McgLw/edit#gid=0) by treating it as an activity system. 
+* Document that game and your experience as you play it, and
+* Communicate what you learned to other people in this course, including me. 
