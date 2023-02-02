@@ -1,10 +1,8 @@
 **English 391: Studies in a Genre**          
 Spring 2023 at the University of Victoria  
-[lək̓ʷəŋən](https://www.songheesnation.ca/community/l-k-ng-n-traditional-territory) and [<u>W</u>SÁNEĆ](https://wsanec.com/) territories     
-Taught by [Jentery Sayers](https://jntry.work/) (he / him)      
+lək̓ʷəŋən and <u>W</u>SÁNEĆ territories     
+Taught by Jentery Sayers (he / him)      
 
 # Activity Analysis
 
-The prompt for this assignment is coming soon. 
-
-You will select a video game and treat it as an "activity system" to document and describe how the activity of multiple genres in the game mediates the motives and objectives of players. This approach will help you to engage the role of both play and narrative in the game. 
+This assignment prompts you to attend to various aspects of the [game you selected](https://docs.google.com/spreadsheets/d/1C6maql6wsx51M6B5YLhgS8cDdqwJXTajUE8Kv5McgLw/edit#gid=0) to study this term and to treat that game as an activity system. It should also prepare you to compose your [player story](final.html) for this course. 
