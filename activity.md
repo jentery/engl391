@@ -17,7 +17,7 @@ This assignment preps you to compose your [player story](final.html) by promptin
 
 ## Download the Assignment
 
-Please download the assignment (DOCX format) to complete it in a word processor. You are also welcome to copy and paste the questions to answer them. I do not recommend this approach because it's riskier than simply downloading the assignment. If you nevertheless decide to copy and paste the questions, then please ensure you include the Academic Integrity statement and a list of works cited / references in your response. 
+Please [download the assignment](english391Activity.docx) (DOCX format) to complete it in a word processor. You are also welcome to copy and paste the questions to answer them. I do not recommend this approach because it's riskier than simply downloading the assignment. If you nevertheless decide to copy and paste the questions, then please ensure you include the Academic Integrity statement and a list of works cited / references in your response. 
 
 If you need the exam in a format other than DOCX, then please let me know ASAP, and I'll make it happen ASAP. 
 
@@ -57,12 +57,12 @@ All supporting game documentation should be yours, and you should only include a
 
 1. Which game did you select to study in this course? Please mention the game's title, developer(s), publisher(s), and release date in your response. (This question should be an easy ten points.)
 2. Identify and describe *one* interesting story element in the game you selected. Why is it interesting? Include supporting game documentation (a video or image) and refer to it in your response.  
-3. Identify and describe *one* interesting art or design element in the game you selected. Why is it interesting? Attach supporting game documentation (a video or image) and refer to it in your response. 
-4. Identify and describe *one* interesting mechanic or challenge in the game you selected. Why is it interesting? Attach supporting game documentation (a video or image) and refer to it in your response. 
-5. Identify *one* genre set in the game you selected and explain how it coordinates narrative with art and mechanics. Attach supporting game documentation (a video or image) and refer to it in your writing. 
+3. Identify and describe *one* interesting art or design element in the game you selected. Why is it interesting? Include supporting game documentation (a video or image) and refer to it in your response. 
+4. Identify and describe *one* interesting mechanic or challenge in the game you selected. Why is it interesting? Include supporting game documentation (a video or image) and refer to it in your response. 
+5. Identify *one* genre set in the game you selected and explain how it coordinates narrative with art and mechanics. Include supporting game documentation (a video or image) and refer to it in your writing. 
 6. Identify and describe *one* contradiction between a mechanic and a story element in the game you selected. What's interesting about the contradiction? You're welcome to mention the game's art and design here, too. 
-7. Identify and describe *one* way a genre set in the game you selected achieves context through uptake. What about the genre set keeps you playing the game, or how does the genre set motivate you to pursue a particular outcome? 
-8. Identify and describe *two* conflicting motives for *playing* the game you selected. Why do the motives conflict, and what's interesting about that conflict? Ideally, the motives are specific. Examples of vague motives include "have fun," "complete the game," and "enjoy a good story." To express a specific motive, try grounding it in a particular part or moment in the game.  
+7. Identify and describe *one* way a genre set in the game you selected achieves context through uptake. What about the genre set keeps you interested in the game, or how does the genre set motivate you to pursue a particular outcome? 
+8. Identify and describe *two* conflicting motives for *playing* the game you selected. Why do the motives conflict, and what's interesting about that conflict? Ideally, the motives are specific. Examples of vague motives include "have fun," "complete the game," and "enjoy a good story." To express a specific motive, try grounding it in a particular part of the game or a specific moment in it. 
 9. Identify and describe *one* community who is especially invested in the game you selected. What do they care about most, and what would they consider to be cheating?
 10. Research the development team for the game you selected and do your best to explain the roles of team members. Who did what, or how was the labour divided? Feel free to note when answers to these two questions are unclear (since roles and divisions of labour are not always communicated clearly, if at all).
 
