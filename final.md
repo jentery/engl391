@@ -7,7 +7,7 @@ Taught by Jentery Sayers (he / him)
 
 A "Player Story" is a methodology [my lab](https://uvicpraxis.github.io/) developed to evaluate what genres do in games. It is grounded in activity theory, and it treats games as activity systems. It draws from neoclassical, structuralist, post-romantic, reader response, and cultural studies of genre. 
 
-A Player Story documents the following experiences of a games and genres:
+A Player Story documents the following experiences of games and genres:
 
 * Playing and reacting to them,
 * Making meaning of them,
@@ -29,7 +29,7 @@ You are welcome to choose *one* of the following approaches to a Player Story fo
 
 * A video essay (8-12 minutes) with voice-over narration. 
 * A written essay (2000-2500 words) with images and/or embedded media.
-* Another approach, which you should propose by email before 11:30am on Friday, March 17th. Labour-wise, this approach should correspond roughly with the minute and word counts provided above: 8-12 minutes or 2000-2500 words. 
+* Another approach, which you should propose by email to me before 11:30am on Friday, March 17th. Labour-wise, this approach should correspond roughly with the minute and word counts provided above: 8-12 minutes or 2000-2500 words. 
 
 Whichever approach you select, you should also include: 
 
@@ -41,7 +41,7 @@ You are more than welcome to draw conventions from genres such as the Let's Play
 
 Your Player Story does not need to be a conventional essay or academic argument; however, it should engage a secondary or tertiary contradiction in a way that demonstrates critical thinking about games, genre, and activity theory (see "Aims" below for more).
 
-If you prefer to write academically, perhaps because you're most familiar with the genre of the academic essay, then you are more than welcome approach your Player Story accordingly. It may resemble ethnographic writing this way. That said, even if your Player Story is academic in style and tone, some or all of it should be written in first-person language. (See "Aims" below for more information.)
+If you prefer to write academically, perhaps because you're most familiar with the genre of the academic essay, then you are more than welcome approach your Player Story accordingly. It may resemble ethnographic writing or even literary studies this way. That said, even if your Player Story is academic in style and tone, some or all of it should be written in first-person language. (See "Aims" below for more information.)
 
 I may refine the format of the Player Story after I assess your responses to the Activity Analysis prompt. No revisions I make will increase your workload or dramatically alter the structure and expectations of this assignment. 
 
@@ -51,10 +51,10 @@ Your Player Story should:
 
 * *Document the experience of playing* a game, reacting to it, making meaning of it, being affected by it, and even arguing with it. (See the "Video Game Documentation" handout for more on what constitutes "documentation.")
 * *Narrate that experience for your intended audience* by treating the game as an activity system in which you're participating. (See the "Video Games as Activity Systems" diagram for the elements of an activity system.)
-* *Address how a genre set functions as an activity* in the game to mediate the relations between participants and their motives. One of these participants should be *you*, the player, hence the expectations of some first-person language in the Player Story. (See "Format and Audience" above for more.)
-* *Engage a secondary or tertiary contradiction in the game's activities* as you experienced them. This contradiction should be the "problem" or topic at *the core of your Player Story*, and you should communicate for whom it matters and why it's important today. (We will discuss secondary and tertiary contradictions during class in February and March.)
+* *Address how a genre set functions as an activity* in the game to mediate relations between participants and their motives. One of these participants should be *you*, the player, hence the expectations of some first-person language in the Player Story. (See "Format and Audience" above for more.)
+* *Engage a secondary or tertiary contradiction in the game's activities* as you experienced them. This contradiction should be the "problem" or topic at *the core of your Player Story*, and your Player Story should communicate for whom the contradiction matters and why it's important today. (We will discuss secondary and tertiary contradictions during class in February and March.)
 * *Express a clear theme or line of inquiry* your audience can follow from start to finish. This should be the "glue" or "thread" that brings your Player Story together and sustains it for your intended audience. 
-* *Be intentionally designed and scoped* such that it does not try to address every aspect of the game or all topics related to the game and its genres. 
+* *Be intentionally designed and scoped* such that it does not try to address every aspect of the game or all topics related to it. 
 * *Demonstrate a palpable awareness of your intended audience* and provide them (via documentation) with access to parts of the game. 
 
 I may refine the aims of the Player Story after I assess your responses to the Activity Analysis prompt. No revisions I make will increase your workload or dramatically alter the structure and expectations of this assignment. 
@@ -86,7 +86,7 @@ Please submit the following materials for your Player Story:
 * The Player Story itself: a video essay (8-12 minutes) with voice-over narration, a written essay (2000-2500 words) with images and/or embedded media such as video and audio, or another approach I approved via email. 
 * A list of works cited / references at the end of your Player Story (in the document or video). You are welcome to use your preferred citation style (MLA, Chicago, or APA, e.g.). 
 
-You can submit your Player Story as a HTML, DOCX, ODT, PAGES, PDF, MOV, or MP4 file with attachments (video, audio, images, or text) where applicable. 
+You can submit your Player Story as a DOCX, ODT, PAGES, PDF, MOV, MP4, or HTML file with attachments (video, audio, images, or text) where applicable. 
 
 Please do not forget to cite *games* from which you draw examples. Parenthetical citations of games are not necessary, but reference entries are. Here's a sample MLA reference entry for a game we've studied in class: 
 
