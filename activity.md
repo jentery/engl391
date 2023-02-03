@@ -17,7 +17,7 @@ This assignment preps you to compose your [player story](final.html) by promptin
 
 ## Download the Assignment
 
-Please download the assignment (DOCX format) to complete it in Microsoft Word, Google Docs, OpenOffice, LibreOffice, or Pages for Mac. You are also welcome to copy the questions and paste them into a word processor to answer them. I do not recommend this approach because it's riskier than simply downloading the assignment. If you nevertheless decide to copy and paste the questions, then please ensure you include the Academic Integrity statement and a list of works cited / references (see below) in your response. 
+Please download the assignment (DOCX format) to complete it in a word processor. You are also welcome to copy and paste the questions to answer them. I do not recommend this approach because it's riskier than simply downloading the assignment. If you nevertheless decide to copy and paste the questions, then please ensure you include the Academic Integrity statement and a list of works cited / references (see below) in your response. 
 
 If you need the exam in a format other than DOCX, then please let me know ASAP, and I'll make it happen ASAP. 
 
@@ -53,4 +53,10 @@ Each of the following questions is worth *10 points* for a total of 100 points. 
 
 *Complete sentences are preferred.* Please do not use more than *150 words* per response. (I will use a word counting tool during assessment.) 
 
-Any video you attach should be no longer than *30 seconds*. All supporting game documentation should be yours, and you should only attach an image or video when the question asks for it. You can use file names (e.g., "portal2Mechanic.png" or "evenTheOceanArt.mov") in your writing to refer to attachments or you can simply insert images or video into the document. 
+All supporting game documentation should be yours, and you should only include an image or video when the question asks for one. You can attach a file by uploading it separately to Brightspace (recommended), or you can insert it directly into the document. If you attach it, then be sure to refer to the filename (e.g., "see portal2Mechanic.png" or "see evenTheOceanArt.mov") in your writing. Any video you attach or insert should be no longer than *30 seconds*. 
+
+1. Which game did you select to study in this course? Please mention the game's title, developer(s), publisher(s), and release date in your response. (This question should be an easy ten points.)
+2. Identify and describe *one* interesting story element in the game you selected. Why is it interesting? Include supporting game documentation (a video or image) and refer to it in your response.  
+3. Identify and describe *one* interesting art or design element in the game you selected. Why is it interesting? Attach supporting game documentation (a video or image) and refer to it in your response. 
+4. Identify and describe *one* interesting mechanic or challenge in the game you selected. Why is it interesting? Attach supporting game documentation (a video or image) and refer to it in your response. 
+5. Identify *one* genre set in the game you selected and explain how it coordinates narrative with art and mechanics. Attach supporting game documentation (a video or image) and refer to it in your writing. 
