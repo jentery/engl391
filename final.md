@@ -44,3 +44,62 @@ Your Player Story does not need to be a conventional essay or academic argument;
 If you prefer to write academically, perhaps because you're most familiar with the genre of the academic essay, then you are more than welcome approach your Player Story accordingly. It may resemble ethnographic writing this way. That said, even if your Player Story is academic in style and tone, some or all of it should be written in first-person language. (See "Aims" below for more information.)
 
 I may refine the format of the Player Story after I assess your responses to the Activity Analysis prompt. No revisions I make will increase your workload or dramatically alter the structure and expectations of this assignment. 
+
+## Aims
+
+Your Player Story should: 
+
+* *Document the experience of playing* a game, reacting to it, making meaning of it, being affected by it, and even arguing with it. (See the "Video Game Documentation" handout for more on what constitutes "documentation.")
+* *Narrate that experience for your intended audience* by treating the game as an activity system in which you're participating. (See the "Video Games as Activity Systems" diagram for the elements of an activity system.)
+* *Address how a genre set functions as an activity* in the game to mediate the relations between participants and their motives. One of these participants should be *you*, the player, hence the expectations of some first-person language in the Player Story. (See "Format and Audience" above for more.)
+* *Engage a secondary or tertiary contradiction in the game's activities* as you experienced them. This contradiction should be the "problem" or topic at *the core of your Player Story*, and you should communicate for whom it matters and why it's important today. (We will discuss secondary and tertiary contradictions during class in February and March.)
+* *Express a clear theme or line of inquiry* your audience can follow from start to finish. This should be the "glue" or "thread" that brings your Player Story together and sustains it for your intended audience. 
+* *Be intentionally designed and scoped* such that it does not try to address every aspect of the game or all topics related to the game and its genres. 
+* *Demonstrate a palpable awareness of your intended audience* and provide them (via documentation) with access to parts of the game. 
+
+I may refine the aims of the Player Story after I assess your responses to the Activity Analysis prompt. No revisions I make will increase your workload or dramatically alter the structure and expectations of this assignment. 
+
+## Academic Integrity 
+
+By responding to this assignment, you confirm that: 
+
+* You followed UVic academic regulations and observed standards of scholarly integrity (e.g., no plagiarism or cheating). 
+* You completed this assignment *individually* and not with a friend, classmate, or group.
+* Your response is your own, excluding quoted and paraphrased material that is clearly cited. 
+* You cited any sources, including assigned reading and internet sources, that you used to answer the questions. 
+
+## Assessment 
+
+By mid-March, I will use [UVic's official grading system](https://www.uvic.ca/calendar/undergrad/index.php#/policy/S1AAgoGuV?bc=true&bcCurrent=14%20-%20Grading&bcGroup=Undergraduate%20Academic%20Regulations&bcItemType=policies) to construct assessment criteria for this assignment *after* I assess your responses to the Activity Analysis prompt. Thank you for your patience. 
+
+For now, please know: 
+
+* 1 point will be deducted for every 25 words or every 10 seconds over the limit. 
+* 10 points will be deducted if no works cited / references page is included at the end of the response.
+* Your mark for the Player Story will constitute 30% of your final mark in this course. 
+
+## What to Submit 
+
+Please submit the following materials for your Player Story: 
+
+* Three sentences describing the project for its intended audience. 
+* The Player Story itself: a video essay (8-12 minutes) with voice-over narration, a written essay (2000-2500 words) with images and/or embedded media such as video and audio, or another approach I approved via email. 
+* A list of works cited / references at the end of your Player Story (in the document or video). You are welcome to use your preferred citation style (MLA, Chicago, or APA, e.g.). 
+
+You can submit your Player Story as a HTML, DOCX, ODT, PAGES, PDF, MOV, or MP4 file with attachments (video, audio, images, or text) where applicable. 
+
+Please do not forget to cite *games* from which you draw examples. Parenthetical citations of games are not necessary, but reference entries are. Here's a sample MLA reference entry for a game we've studied in class: 
+
+* Han-Tani, Melos and Marina Kittaka. *Even the Ocean*. Analgesic Productions, 2016. 
+
+Columns A, B, C, and D in [this spreadsheet](https://bit.ly/3Im7Tg8) provide you with all the information you need to reference games in the course. 
+
+Finally, you are welcome to use this MLA reference entry for Bawarshi and Reiff's work when quoting or paraphrasing it in any of your responses: 
+
+* Bawarshi, Anis S. and Mary Jo Reiff. *Genre: An Introduction to History Theory Research and Pedagogy*. Parlor Press, 2010.
+
+## When to Submit It
+
+Please submit your Player Story by Tuesday, April 18th at 11:30am.
+
+I will deduct *five* points per working day (excluding holidays and weekends) for every submission I receive after Wednesday, April 19th at 11:30am. This gives you one day of wiggle room for your final project. I will close the Brightspace submission portal for the Player Story assignment at 11:30am on Monday, April 24th. 
