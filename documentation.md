@@ -10,6 +10,7 @@ This guide was witten by Sangeev Thevananthan and edited by Jentery Sayers
 ## Table of Contents 
 
 * [Images](#images)
+* [Logs](#logs)
 
 ## Images 
 
