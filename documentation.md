@@ -5,66 +5,49 @@ Taught by [Jentery Sayers](https://jntry.work/) (he / him)
 
 # Documentation Guide 
 
-Some tips for documenting your experiences playing games . . . 
+This guide was witten by Sangeev Thevananthan and edited by Jentery Sayers 
 
-*Note to Sangeev*: The audience here is a UVic undergraduate student in a 300-level English course. We'll need to avoid academic and technical jargon. Also, this is just an outline. Feel free to expand or refine wherever you see fit. Let's aim for one page (print / PDF, single-spaced, 11-point Calibri) per approach. If we can't make that fit, then we'll probably need to remove a section, reduce the number of examples, or the like. Finally, we'll need to mention on every page that they should *not* make their documentation public. 
+## Table of Contents 
 
 ## Images 
 
-**Tech Required**: *Note to Sangeev*: No need to mention brands. Something generic, including "screen capture software," should work. Images here may be screen caps, photographs of the player in context (where they're playing), screen caps + camera views of the player . . . 
+This section covers the use of screengrabs, still photos, and photographs of the play environment. 
 
-**Planning Required**: *Note to Sangeev*: planning in terms of setup or preparing play sessions for recording or documentation; basically, the labour required to get it going 
+**Tech Required**
 
-**Benefits**: *Note to Sangeev*: specifically, benefits for reflection, providing access to a primary source, and writing critically or academically about games 
+-	Overall, tech needed is very minimal.
+-	Screenshot and screen capture capabilities are available on most newer platforms (PC, Mac, mobile phone, PS5, Xbox S/X, Nintendo Switch). 
+-	Shortcuts exist on Mac, PC, and mobile phones to easily save images. 
+-	Mac: Cmd + Shift + 3, PC: Windows key + Shifc + S
+-	Create button on PS5, share button on XBox, Capture button on Nintendo Switch
+-	Photos of the play environment likely require a camera or phone (if you want to photograph the physical environment in which you play games).
+-	Ability to transfer files (through an app, e.g.) from your console or phone to your computer may be helpful. 
+-	You can take still images from video recordings of play session as well. 
 
-**Limitations**: *Note to Sangeev*: specifically, limitations with respect to reflection, providing access to a primary source, and writing critically or academically about games
+**Planning Required**
 
-**Three Examples**: *Note to Sangeev*: Perhaps specific articles / essays from http://gamestudies.org/2203/, http://www.firstpersonscholar.com/, and https://press.etc.cmu.edu/publications/well-played/journal_series/well-played? I'm open to others. 
+-	You may need to learn shortcuts and decide which method of capturing play is most suitable or easiest. 
+-	Which aspects of the play session do you want to capture? Story elements? The art or design? The mechanics?  
+-	Do you need or wish to be included (as a player) in the documentation? For instance, do your reactions or environment play a significant role in your research? 
 
-## Log
+**Benefits of Using Images** 
 
-**Tech Required**: *Note to Sangeev*: No need to mention brands. Something generic, including "pen and paper," should work. A log here is likely descriptive (re-creating the game or play session in writing) but may also be expository (explaining the game or play session in writing), narrative (telling a story in writing about the play session), and/or persuasive (written commentary or analysis during the session). 
+-	Documenting play through images usually requires very little preparation or knowledge of tech.
+-	Files can be included within a repository (folder/repo of files) or integrated into your writing as evidence or a reference to a primary source. 
+-	Small file sizes (doesn't require much storage) 
+-	For reflection, you can point to a particular moment in a play session (for example, "see image_01" or "see Figure A").
+-	Images can be easily referenced and worked into longer essays. 
 
-**Planning Required**: *Note to Sangeev*: planning in terms of setup or preparing play sessions for recording or documentation; basically, the labour required to get it going  
+**Limitations of Using Images**
 
-**Benefits**: *Note to Sangeev*: specifically, benefits for reflection, providing access to a primary source, and writing critically or academically about games
+-	May be limited in degree of information as a sole piece of documentation
+-	No sound or movement
+-	Academic publications (outside of coursework) will likely require written permission from publishers or developers to use images of their work. 
+-	Requires some knowledge of file management
 
-**Limitations**: *Note to Sangeev*: specifically, limitations with respect to reflection, providing access to a primary source, and writing critically or academically about games
+**Examples**
 
-**Three Examples**: *Note to Sangeev*: Perhaps something from https://lparchive.org/ and . . . ? Again, I'm open to suggestions. 
-
-## Audio 
-
-**Tech Required**: *Note to Sangeev*: No need to mention brands. Something generic, including "audio recorder" and "sound capture software," should work. Audio here may be the audio version of the log (above), sound captures of in-game audio, and/or player remarks + vocalizations in real-time.  
-
-**Planning Required**: *Note to Sangeev*: planning in terms of setup or preparing play sessions for recording or documentation; basically, the labour required to get it going 
-
-**Benefits**: *Note to Sangeev*: specifically, benefits for reflection, providing access to a primary source, and writing critically or academically about games
-
-**Limitations**: *Note to Sangeev*: specifically, limitations with respect to reflection, providing access to a primary source, and writing critically or academically about games
-
-**Three Examples**: *Note to Sangeev*: Perhaps something from Twitch, YT, or a podcast? Again, I'm open to suggestions. 
-
-## Video (no commentary) 
-
-**Tech Required**: *Note to Sangeev*: No need to mention brands. Something generic, including "screen recorder," should work. Video here may be the video version of the log (above), screen recordings, and/or video of physical player activity and expression in real-time.  
-
-**Planning Required**: *Note to Sangeev*: planning in terms of setup or preparing play sessions for recording or documentation; basically, the labour required to get it going 
-
-**Benefits**: *Note to Sangeev*: specifically, benefits for reflection, providing access to a primary source, and writing critically or academically about games
-
-**Limitations**: *Note to Sangeev*: specifically, limitations with respect to reflection, providing access to a primary source, and writing critically or academically about games
-
-**Three Examples**: *Note to Sangeev*: Perhaps something from Twitch or YT? Again, I'm open to suggestions. 
-
-## Video with Voice-Over
-
-**Tech Required**: *Note to Sangeev*: No need to mention brands. Something generic, including "broadcasting software," should work. Video w/ VO here may be the video version of the log (above), screen recordings with real-time voice commentary, and/or video of physical player activity and commentary in real-time.  
-
-**Planning Required**: *Note to Sangeev*: planning in terms of setup or preparing play sessions for recording or documentation; basically, the labour required to get it going 
-
-**Benefits**: *Note to Sangeev*: specifically, benefits for reflection, providing access to a primary source, and writing critically or academically about games
-
-**Limitations**: *Note to Sangeev*: specifically, limitations with respect to reflection, providing access to a primary source, and writing critically or academically about games
-
-**Three Examples**: *Note to Sangeev*: Perhaps something from Twitch or YT? Again, I'm open to suggestions. An academic or critical example (as long as it's documentation and not an essay) would be cool. 
+-	Documenting the physical environment of your play sessions might look something like Image 1 in ["Pursuits for the Heart: *Monument Valley 2* and Intergenerational Play”](https://press.etc.cmu.edu/journals/well-played-vol-8-no-2) by Lauren Cruikshank (*Well Played* Vol. 8, No. 2)
+-	Your images may also document your gear and setup or your point-of-view during the play session.
+-	An example of screenshots taken during a play session can be found in ["Rebel Inc., Colonialism Simulator”](http://www.firstpersonscholar.com/rebel-inc-colonialism-simulator/) by Alex Adams (*First Person Scholar* Jul 27, 2022)
+-	Figures 1, 2, and 3 from ["The Dilemmas of a Disco Cop”](https://press.etc.cmu.edu/journals/well-played-vol-11-no-1) by Mia Consalvo, E. Jules Maier-Zucchino, and Robert Marinov (*Well Played* Vol. 11, No. 1) demonstrate the use of images in academic writing.
