@@ -9,6 +9,8 @@ This guide was witten by Sangeev Thevananthan and edited by Jentery Sayers
 
 ## Table of Contents 
 
+* [Images](#images)
+
 ## Images 
 
 This section covers the use of screengrabs, still photos, and photographs of the play environment. 
