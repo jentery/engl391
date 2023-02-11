@@ -206,4 +206,4 @@ This section covers video capture with audio overlay / voice-over.
 **Examples**
  	
 -	Example of play session with facecam, audio commentary and gameplay: ["Alien: Isolation - Gameplay Walkthrough Part 1 - Ripley Intro with Facecam! (PC, PS4, Xbox One)”](https://youtu.be/yBEQKLyvwk8) by ZackScottGames (warning: this game is scary) 
--	Let’s Play Archive has a number of video recordings (with and without commentary) of various games. For example, see [“Legend of Zelda: Skyward Sword Let’s Play”](https://lparchive.org/Legend-of-Zelda-Skyward-Sword-(by-ThornBrain)/) by ThomBrain.
+-	Let’s Play Archive has a number of video recordings (with and without commentary) of various games. For example, see [“Legend of Zelda: Skyward Sword Let’s Play”](https://lparchive.org/Legend-of-Zelda-Skyward-Sword-(by-ThornBrain)/) by ThornBrain.
