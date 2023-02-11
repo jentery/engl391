@@ -5,12 +5,14 @@ Taught by [Jentery Sayers](https://jntry.work/) (he / him)
 
 # Documentation Guide 
 
-This guide was witten by Sangeev Thevananthan and edited by Jentery Sayers 
+This guide was witten by Sangeev Thevananthan and edited by Jentery Sayers. *It has not been copy-edited. Expect typos.* 
 
 ## Table of Contents 
 
 * [Images](#images)
 * [Logs](#logs)
+* [Audio](#audio) 
+* [Video without Commentary](#video-without-commentary)
 
 ## Images 
 
@@ -26,6 +28,7 @@ This section covers the use of screengrabs and still photos as well as photograp
 -	Photos of the play environment likely require a camera or phone (if you want to photograph the physical environment in which you play games).
 -	Ability to transfer files (through an app, e.g.) from your console or phone to your computer may be helpful. 
 -	You can take still images from video recordings of play session as well. 
+-	When in doubt, or when you're pressed for time, you can just photograph your screen. 
 
 **Planning Required**
 
@@ -126,5 +129,47 @@ This section covers audio capture of game sounds as well as player commentary, i
 -	["Early Let's Play - Gradius III (SNES) Audio Only Playthrough - Early 90s (1992?)"](https://youtu.be/XeA5SvVyQw8) by DDCecil is an example of an audio recording made during a play session.
 -	The audio portion of this video is an example of commentary: [“Journey Walkthrough Part 1 - THE JOURNEY BEGINS - Let's Play Gameplay/Commentary”](https://youtu.be/lPUqJ0lXT6E) by jacksepticeye. 
 -	Play documented by audio might also take the style of a log or journal through a podcast-like set of reflections. 
+
+## Video without Commentary 
+
+This section covers video gameplay footage as well as "silent" Let’s Plays. 
+
+**Tech Required**
+
+-	Overall, moderate knowledge of tech required. 
+-	Screen capture software or gameplay capture (OBS, Nvidia Game Capture, or an external capture device, for example).
+-	May also be a recording of the player during play and their expressions in real-time (time lapse)
+-	Gameplay (video of play in action) recorded over the play session might include game audio, but no audio from the player.
+-	Physical recording may need camera or mobile phone set up for extended periods of time.
+-	Face-cam may need knowledge of screen capture software and/or knowledge of how to integrate two video files. 
+
+**Planning Required**
+
+-	Setup of the software and capture device. Settings can vary between platforms and games.
+- Setup may also require more physical space than you need if you're only keeping a log or capturing images, for example
+-	Testing to ensure the video is coherent (viewable/playable afterwards) and that storage device has enough space 
+
+**Benefits of Using Video without Commentary**
+
+-	Easily referenced with time-stamps ("See video_1 @ 00:21:20")
+-	Collects a lot of information; can capture an entire play session
+-	Can be self-explanatory as a recorded play session.
+-	For reflections, it can serve as a source to explore certain moments of the play session, including moments you may not have initially noticed. 
+-	Increasing accessibility in tech design is making the process easier on certain platforms. 
+
+**Limitations of Using Video without Commentary**
+
+-	May be restricted to what is captured on screen; limited space for your commentary or thoughts (unless you are recording yourself). 
+-	Video may lack ability for personal reflection on play session or experience of play.
+-	Files sizes can be quite large, and setup can be time-consuming, especially if you don't have a space dedicated to playing games. 
+
+**Examples**
+
+-	Video of long-play: ["Stardew Valley - Relaxing Longplay Fall (No Commentary)”](https://youtu.be/_XfffJIzEtI) by Loopy Longplays
+- Another gameplay video: ["Tetris 99 HD Gameplay No Commentary"](https://www.youtube.com/watch?v=7hOmrLWdWOY)
+
+
+
+
 
 
