@@ -128,8 +128,7 @@ This section covers audio capture of game sounds as well as player commentary, i
 **Examples** 
 
 -	["Early Let's Play - Gradius III (SNES) Audio Only Playthrough - Early 90s (1992?)"](https://youtu.be/XeA5SvVyQw8) by DDCecil is an example of an audio recording made during a play session.
--	The audio portion of this video is an example of commentary: [“Journey Walkthrough Part 1 - THE JOURNEY BEGINS - Let's Play Gameplay/Commentary”](https://youtu.be/lPUqJ0lXT6E) by jacksepticeye. 
--	Play documented by audio might also take the style of a log or journal through a podcast-like set of reflections. 
+-	Play documented by audio might also take the style of a log through "actual plays" or a podcast-like set of reflections. 
 
 ## Video without Commentary 
 
