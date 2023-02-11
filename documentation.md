@@ -13,6 +13,7 @@ This guide was witten by Sangeev Thevananthan and edited by Jentery Sayers. *It 
 * [Logs](#logs)
 * [Audio](#audio) 
 * [Video without Commentary](#video-without-commentary)
+* [Video with Voice-Over](#video-with-voice-over)
 
 ## Images 
 
@@ -168,8 +169,42 @@ This section covers video gameplay footage as well as "silent" Let’s Plays.
 -	Video of long-play: ["Stardew Valley - Relaxing Longplay Fall (No Commentary)”](https://youtu.be/_XfffJIzEtI) by Loopy Longplays
 - Another gameplay video: ["Tetris 99 HD Gameplay No Commentary"](https://www.youtube.com/watch?v=7hOmrLWdWOY)
 
+## Video with Voice-Over 
 
+This section covers video capture with audio overlay / voice-over. 
 
+**Tech Required**
 
+-	Overall, moderate knowledge of tech required
+-	Screen capture software or gameplay capture (OBS, Nvidia Game Capture, or external capture device, for example) alongside microphone recording
+-	May also be a recording of the player during play and expressions in real-time (time lapse) with "stitched over" audio from the session
+-	Physical recording may need camera or mobile phone set up for extended periods of time
+-	Facecam may need knowledge of screen capture software and/or knowledge of how to integrate two or more video files
 
+**Planning Required**
 
+-	May need setup of the software, capture device and/or editing software
+-	Settings can vary between platforms, games, and video + audio equipment
+-	Testing to ensure both video and voice-over are coherent (viewable/playable afterwards) and that storage device has enough space 
+
+**Benefits of Using Video with Voice-Over** 
+
+-	Can be easily referenced with time-stamps ("See video_3 @ 00:17:20")
+-	Collects a lot of information, can capture an entire play session in a variety of forms of experience 
+-	Can be self-explanatory as a recorded play session 
+-	For reflections, it can serve as a source to explore certain moments of the play session but also capture thoughts, ideas, and game aspects at once. 
+-	Can also detail reflections within the play session itself or draw on the recording as the reflection. 
+-	Increasing accessibility in tech design is making he process easier on certain platforms
+-	Voice-over can be recorded in real-time or during post-production (after the play session) 
+
+**Limitations of Using Video with Voice-Over** 
+
+-	Limited drawbacks; however, this approach may present too much information at once and can thus be overwhelming 
+-	Difficulty may arise in putting it all together without prior knowledge/experience (somewhat steep learning curve) 
+-	Files sizes can be quite large, and there can be difficulties in integrating multiple forms of recorded documentation. 
+-	Proprietary file formats 
+
+**Examples**
+ 	
+-	Example of play session with facecam, audio commentary and gameplay: ["Alien: Isolation - Gameplay Walkthrough Part 1 - Ripley Intro with Facecam! (PC, PS4, Xbox One)”](https://youtu.be/yBEQKLyvwk8) by ZackScottGames (warning: this game is scary) 
+-	Let’s Play Archive has a number of video recordings (with and without commentary) of various games. For example, see [“Legend of Zelda: Skyward Sword Let’s Play”](https://lparchive.org/Legend-of-Zelda-Skyward-Sword-(by-ThornBrain)/) by ThomBrain.
