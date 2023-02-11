@@ -88,3 +88,43 @@ This section covers the use of pen and paper, notes, a word processor, and other
 -	"#Me2, #Me4, Black Women, and Misogynoir" by Kishonna Gray , pages 94-95 and 101-102, contain examples of a log, (auto)ethnography, and accompanying reflection.
 -	A log may also take the form of a diary or journal of events and encounters within a play session.
 
+## Audio
+
+This section covers audio capture of game sounds as well as player commentary, including voice-over.
+
+**Tech Required**
+
+-	Overall, can be done with minimal knowledge of tech
+-	To document play through audio, you will need a device capable of recording audio or capturing sound (Audacity, QuickTime, or OBS, for example). 
+-	Audio may assume the form of a log (similar to a written log), capture of game sounds, and/or real-time commentary and expressions. 
+-	You will need a microphone if you wish to record real-time commentary or voice-over. 
+-	You may also need a USB audio interface (like a Focusrite Scarlett) to connect mics to a computer. 
+
+**Planning Required**
+
+-	Requires some time to setup and find a way to record either game sound and/or player voice
+-	Set up software or external equipment, including mic checks 
+-	May need to work out how to transfer or merge files if recorded on separate platforms
+-	May require sound checks to ensure the audio gets recorded in a clear way. 
+-	If you're recording audio and video through game capture at the same time, then the audio might need to be ripped or recorded separately. 
+
+**Benefits of Using Audio**
+
+-	Audio can be an accessible way of capturing often ignored or overlooked real-time interaction, including a player's unscripted remarks 
+-	Opportunity to comment or narrate over video capture of a play session (voice-over commentary) 
+-	Can be easily referenced by pointing to time-stamps ("see Audio Log 01 @ 00:12:33")
+
+**Limitations of Using Audio** 
+
+-	May take several tries to get right. 
+-	Acoustics and ambient noise play a significant role in recording and fidelity. 
+-	Audio recording can vary by equipment and settings (noise-gate, external noise, etc.).
+-	Requires some knowledge of recording and file management, and audio files are typically larger than image or text files, for example. 
+
+**Examples** 
+
+-	["Early Let's Play - Gradius III (SNES) Audio Only Playthrough - Early 90s (1992?)"](https://youtu.be/XeA5SvVyQw8) by DDCecil is an example of an audio recording made during a play session.
+-	The audio portion of this video is an example of commentary: [“Journey Walkthrough Part 1 - THE JOURNEY BEGINS - Let's Play Gameplay/Commentary”](https://youtu.be/lPUqJ0lXT6E) by jacksepticeye. 
+-	Play documented by audio might also take the style of a log or journal through a podcast-like set of reflections. 
+
+
