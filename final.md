@@ -28,6 +28,7 @@ I am asking you to compose your own Player Story for your final project in this 
 
 I recommend preparing for your Player Story by: 
 
+* Completing at least one playthrough of the video game you selected. 
 * Reviewing ["Rhetorical Genre Studies"](https://wac.colostate.edu/docs/books/bawarshi_reiff/chapter6.pdf) by Bawarshi and Reiff.  
 * Reviewing [*The English 391 Activity Analysis Workbook!*](https://bit.ly/activity391), which defines the elements of an activity analysis, describes what that analysis does in game and genre studies, and provides you with examples of diagrams and the sort of interpretive work you can do in this area. 
 * Completing the worksheets I circulated during "Workshop Week" (March 28, 29, and 31). 
