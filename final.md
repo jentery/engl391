@@ -82,17 +82,16 @@ By responding to this assignment, you confirm that:
 
 I will use [UVic's official grading system](https://www.uvic.ca/calendar/undergrad/index.php#/policy/S1AAgoGuV?bc=true&bcCurrent=14%20-%20Grading&bcGroup=Undergraduate%20Academic%20Regulations&bcItemType=policies) and the Aims expressed above to assess your Player Story according to the following rubric: 
 
-* **A+ (90-100)**: Your Player Story exceeds the Aims of this prompt, affords original insight into the material you studied, and could appear (with minor revisions) in a forum for publishing popular or academic criticism of video games. 
-* **A (85-89)**: Your Player Story exceeds the Aims of this prompt and affords mostly original insight into the material you studied.
-* **A- (80-84)**: Your Player Story mostly exceeds the Aims of this prompt and affords some original insight into the material you studied.
-* **B+ (77-79)**: Your Player Story partly exceeds the Aims of this prompt and affords some original insight into the material you studied.
-* **B (73-76)**: Your Player Story meets or partly exceeds the Aims of this prompt. 
-* **B- (70-72)**: Your Player Story meets the Aims of this prompt. 
-* **C+ (65-69)**: Your Player Story meets some Aims of this prompt.
-* **C (60-64)**: Your Player Story meets a few Aims of this 
-prompt.
-* **D (50-59)**: Your Player Story does not meet two or more Aims of this prompt.
-* **F (0-49)**: Your Player Story is incomplete or does not meet any Aims of this prompt. 
+* A+ (90-100): Your Player Story exceeds the Aims of this prompt, affords original insight into the material you studied, and could appear (with minor revisions) in a forum for publishing popular or academic criticism of video games. 
+* A (85-89): Your Player Story exceeds the Aims of this prompt and affords mostly original insight into the material you studied.
+* A- (80-84): Your Player Story mostly exceeds the Aims of this prompt and affords some original insight into the material you studied.
+* B+ (77-79): Your Player Story partly exceeds the Aims of this prompt and affords some original insight into the material you studied.
+* B (73-76): Your Player Story meets or partly exceeds the Aims of this prompt. 
+* B- (70-72): Your Player Story meets the Aims of this prompt. 
+* C+ (65-69): Your Player Story meets some Aims of this prompt.
+* C (60-64): Your Player Story meets a few Aims of this prompt.
+* D (50-59): Your Player Story does not meet two or more Aims of this prompt.
+* F (0-49): Your Player Story is incomplete or does not meet any Aims of this prompt. 
 
 Please also note that: 
 
