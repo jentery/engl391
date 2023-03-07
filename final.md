@@ -30,7 +30,7 @@ I recommend preparing for your Player Story by:
 
 * Completing at least one playthrough of the video game you selected. 
 * Reviewing ["Rhetorical Genre Studies"](https://wac.colostate.edu/docs/books/bawarshi_reiff/chapter6.pdf) by Bawarshi and Reiff.  
-* Reviewing [*The English 391 Activity Analysis Workbook!*](https://bit.ly/activity391), which defines the elements of an activity analysis, describes what that analysis does in game and genre studies, and provides you with examples of diagrams and the sort of interpretive work you can do in this area. 
+* Reviewing [*The English 391 Activity Analysis Workbook!*](https://bit.ly/activity391), which defines the elements of an activity analysis, describes what that analysis does in both game studies and genre studies, and provides you with examples of activity diagrams and the sort of interpretive work you can perform with them. 
 * Completing the worksheets I circulated during "Workshop Week" (March 28, 29, and 31). 
 * Reviewing this [activity diagram](activityDiagramOfGames.png) of video games as activity systems. 
 * Completing a [blank activity diagram](blankActivityDiagramOfGames.png) to visualize and plan your Player Story about a video game you selected. Recall that activity diagrams are not representations or models of video games but rather arguments about video games.
