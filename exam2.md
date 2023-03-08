@@ -95,3 +95,23 @@ I will use the following rubric to assess each of your responses in Section 2 (w
 10 points will be deducted if no works cited / references page is included at the end of the exam (see details below).
 
 The total of these points (0-100) will constitute 22.5% of your final mark in this course. 
+
+## What to Submit 
+
+To respond to Take-Home Exam 2, please submit a DOCX, ODT, PAGES, or PDF file containing your answers. If you quote or paraphrase any sources, then include parenthetical citations and a works cited or references page. You are welcome to use your preferred citation style (MLA, Chicago, or APA, e.g.). 
+
+Please do not forget to cite *games* from which you draw examples. Games do not require parenthetical citation, but you should include a reference entry for them. Here's a sample MLA reference entry for a game we've studied in class: 
+
+* Han-Tani, Melos and Marina Kittaka. *Even the Ocean*. Analgesic Productions, 2016. 
+
+Columns A, B, C, and D in [this spreadsheet](https://bit.ly/3Im7Tg8) provide you with all the information you need to reference games in the media collection. 
+
+Finally, you are welcome to use this MLA reference entry for Bawarshi and Reiff's work when quoting or paraphrasing it in your exam: 
+
+* Bawarshi, Anis S. and Mary Jo Reiff. *Genre: An Introduction to History Theory Research and Pedagogy*. Parlor Press, 2010.
+
+## When to Submit It
+
+Please submit your response to Take-Home Exam 2 via Brightspace by Wednesday, March 22nd at 11:30am. 
+
+I will deduct five points per working day (excluding holidays and weekends) for every submission I receive after Wednesday, March 22nd at 11:30am. I will close the Brightspace submission portal for this exam at 11:30am on Wednesday, March 29th. 
