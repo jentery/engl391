@@ -25,3 +25,7 @@ This exam has two aims for the purposes of this course, namely for you to:
 
 1. Cover foundations in activity theory *before* you proceed with your own project (i.e., your [Player Story](final.html)) in this course. 
 2. Demonstrate your knowledge of key terms from the second half of this course. These terms include metagame, environmental storytelling, player story, and secondary and tertiary contradiction. 
+
+## Format
+
+This open-book exam is ten short-answer questions divided into two sections, which have distinct assessment criteria. 
