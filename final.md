@@ -117,7 +117,7 @@ Columns A, B, C, and D in [this spreadsheet](https://bit.ly/3Im7Tg8) provide you
 
 Finally, you are welcome to use this MLA reference entry for Bawarshi and Reiff's work when quoting or paraphrasing it in your Player Story: 
 
-* Bawarshi, Anis S. and Mary Jo Reiff. *Genre: An Introduction to History Theory Research and Pedagogy*. Parlor Press, 2010.
+* Bawarshi, Anis S. and Mary Jo Reiff. *Genre: An Introduction to History, Theory, Research, and Pedagogy*. Parlor Press, 2010.
 
 ## When to Submit It
 
