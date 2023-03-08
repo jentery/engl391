@@ -41,3 +41,15 @@ By responding to this exam, you confirm that:
 * Each response to every exam question is your own, excluding quoted and paraphrased material that is clearly cited. 
 * You cited any sources, including assigned reading and internet sources, that you used to answer the exam questions. 
 
+## Section 1 
+
+Each of the following questions is worth *5 points* for a total of 25 points in this section. Your responses should demonstrate your *understanding* of pertinent course material, including lectures, assigned reading, and discussions. (See "Assessment" below for details.) 
+
+*Point form and incomplete sentences are preferred.* Please do not use more than *100 words* per response. (I will use a word counting tool during assessment.) Do not include audio, images, or video in your answers. You are welcome to quote or paraphrase my lectures and lecture notes in your answers. 
+
+1. Provide *three* working definitions of "metagame" in the context of video games. 
+2. Identify and briefly describe *three* types of metagames in the context of video games. 
+3. Use lecture material in this course to define a "secondary contradiction" in the activity theory of video games and then communicate that definition in your own words.  
+4. Use lecture material in this course to define a "tertiary contradiction" in the activity theory of video games and then communicate that definition in your own words. 
+5. Define a "player story" in the activity theory of video games and then include a URL (i.e., a web address) of *one* example. (The URL aspect of this question will only be assessed on *whether you included the URL* and *not whether the content is a compelling example* of a player story. Just do your best to think of an example and then point me to it.) 
+
