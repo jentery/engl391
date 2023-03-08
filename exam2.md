@@ -29,3 +29,15 @@ This exam has two aims for the purposes of this course, namely for you to:
 ## Format
 
 This open-book exam is ten short-answer questions divided into two sections, which have distinct assessment criteria. 
+
+## Academic Integrity 
+
+By responding to this exam, you confirm that: 
+
+* You followed UVic academic regulations and observed standards of scholarly integrity (e.g., no plagiarism or cheating). 
+* You completed this exam *individually* and not with a friend, classmate, or group.
+* You did not share your answers with anyone else, including your peers in this course, at any time. 
+* You did not give or receive any aid on this exam. (The use of a spell and/or grammar checker on your computer is permitted.)
+* Each response to every exam question is your own, excluding quoted and paraphrased material that is clearly cited. 
+* You cited any sources, including assigned reading and internet sources, that you used to answer the exam questions. 
+
