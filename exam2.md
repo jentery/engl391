@@ -51,7 +51,7 @@ Each of the following questions is worth *5 points* for a total of 25 points in 
 2. Identify and briefly describe *three* types of metagames in the context of video games. 
 3. Use lecture material in this course to define a "secondary contradiction" in the activity theory of video games and then communicate that definition in your own words.  
 4. Use lecture material in this course to define a "tertiary contradiction" in the activity theory of video games and then communicate that definition in your own words. 
-5. Define a "player story" in the activity theory of video games and then include a URL (i.e., a web address) of *one* example. (The URL aspect of this question will only be assessed on *whether you included the URL* and *not whether the content is a compelling example* of a player story. Just do your best to think of an example and then point me to it.) 
+5. Define a "player story" in the activity theory of video games and then include a URL (i.e., a web address) of *one* example. (The URL aspect of this question will only be assessed on *whether you included the URL* and *not whether the content at that URL is a compelling example* of a player story. Just do your best to identify an example of a player story and then point me to it.)
 
 ## Section 2 
 
