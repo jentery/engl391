@@ -43,7 +43,7 @@ By responding to this exam, you confirm that:
 
 ## Section 1 
 
-Each of the following questions is worth *5 points* for a total of 25 points in this section. Your responses should demonstrate your *understanding* of pertinent course material, including lectures, assigned reading, and discussions. (See "Assessment" below for details.) 
+Each of the following questions is worth *5 points* for a total of 25 points in this section. Your responses should demonstrate your *understanding* of pertinent course material, including lectures, assigned games and reading, and discussions. (See "Assessment" below for details.) 
 
 *Point form and incomplete sentences are preferred.* Please do not use more than *100 words* per response. (I will use a word counting tool during assessment.) Do not include audio, images, or video in your answers. You are welcome to quote or paraphrase my lectures and lecture notes in your answers. 
 
@@ -52,4 +52,21 @@ Each of the following questions is worth *5 points* for a total of 25 points in 
 3. Use lecture material in this course to define a "secondary contradiction" in the activity theory of video games and then communicate that definition in your own words.  
 4. Use lecture material in this course to define a "tertiary contradiction" in the activity theory of video games and then communicate that definition in your own words. 
 5. Define a "player story" in the activity theory of video games and then include a URL (i.e., a web address) of *one* example. (The URL aspect of this question will only be assessed on *whether you included the URL* and *not whether the content is a compelling example* of a player story. Just do your best to think of an example and then point me to it.) 
+
+## Section 2 
+
+Each of the following questions is worth *15 points* for a total of 75 points in this section. Your responses should demonstrate your *understanding and application* of pertinent course material, including lectures, assigned games and reading, and discussions. (See "Assessment" below for details.) 
+
+*Complete sentences are preferred.* Please do not use more than *200 words* per response. (I will use a word counting tool during assessment.) Do not include audio, images, or video in your answers. 
+
+Please also *refrain from interpreting the same game* in more than one response. See the ["Video Game Documentation" media collection](https://echo360.ca/collection/eaf8e885-8eaa-43f6-a8e6-7bc6e0b16b2c/public) for video files you may interpret. For the sake of brevity in the following questions, I refer to this collection as "the media collection." You may also want to consult [this spreadsheet](https://bit.ly/3Im7Tg8) of games we are studying in English 391. 
+
+<ol start=6>
+<li>Use a compelling or unique example from a game documented in the media collection to explain how video games <em>evoke</em> stories.</li>
+<li>Use a compelling or unique example from a game documented in the media collection to explain how video games <em>enact</em> stories.</li>
+<li>Use a compelling or unique example from a game documented in the media collection to explain how video games <em>embed</em> stories.</li>
+<li>Use a compelling or unique example from a game documented in the media collection to explain how stories <em>emerge</em> from playing video games.</li>
+<li>Identify a genre set in a game documented in the media collection and explain how it's conducive to both <em>flow</em> and <em>friction</em>.</li>
+</ol>
+  
 
