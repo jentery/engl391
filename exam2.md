@@ -68,5 +68,30 @@ Please also *refrain from interpreting the same game* in more than one response.
 <li>Use a compelling or unique example from a game documented in the media collection to explain how stories <em>emerge</em> from playing video games.</li>
 <li>Identify a genre set in a game documented in the media collection and explain how it's conducive to both <em>flow</em> and <em>friction</em>.</li>
 </ol>
-  
 
+## Assessment 
+
+I will use the following rubric, based on [UVic's official grading system](https://www.uvic.ca/calendar/undergrad/index.php#/policy/S1AAgoGuV?bc=true&bcCurrent=14%20-%20Grading&bcGroup=Undergraduate%20Academic%20Regulations&bcItemType=policies), to assess each of your responses in Section 1 (worth a total of 25 points), where "course material" includes lectures, assigned games and readings, discussions, and files in the "Video Game Documentation" media collection: 
+
+* 5 points: the response is clear and corresponds with the course material (meets or exceeds expectations) 
+* 4 points: the response is clear and mostly corresponds with the course material (mostly meets expectations)
+* 3 points: the response is clear and roughly half of it corresponds with the course material (meets some expectations)
+* 2 points: less than half of the response corresponds with the course material (meets few expectations)
+* 1 point: the response doesn't correspond with the course material but an effort was made to answer the question 
+* 0 points: no answer 
+
+1 point will be deducted for every 25 words used over the 100-word limit. 
+
+I will use the following rubric to assess each of your responses in Section 2 (worth a total of 75 points), where "course material" includes lectures, assigned games and readings, discussions, and files in the "Video Game Documentation" media collection: 
+
+* 12-15 points: the response is compelling, and it enriches the course material (exceeds expectations); the use of an example is clear and convincing 
+* 9-11 points: the response is compelling and corresponds with the course material (meets expectations); the use of an example is clear 
+* 5-8 points: the response mostly corresponds with the course material (meets some expectations); the use of an example warrants clarification  
+* 1-4 points: the response does not correspond with the course material and/or there's no example
+* 0 points: no response 
+
+1 point will be deducted for every 25 words used over the 200-word limit. 
+
+10 points will be deducted if no works cited / references page is included at the end of the exam (see details below).
+
+The total of these points (0-100) will constitute 22.5% of your final mark in this course. 
