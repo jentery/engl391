@@ -373,7 +373,7 @@ The purpose of these workshops is to help you to refine your Player Story well b
 
 *Friday, March 31st* 
 
-* Please bring to class any notes you have on some contradictions between two or more genresin the game you're studying. 
+* Please bring to class any notes you have on some contradictions between two or more genres in the game you're studying. 
 * I'll circulate a worksheet on genre sets and contradiction for you to complete individually in small groups. Please return the worksheet to me before you leave class. 
 
 ## Review (Apr. 4 and 5)
