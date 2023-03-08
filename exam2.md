@@ -18,3 +18,10 @@ Please [download the exam](english391Exam2.docx) (DOCX format) to complete it in
 If you need the exam in a format other than DOCX, then please let me know ASAP, and I'll make it happen ASAP. 
 
 Note that the downloadable copy of the exam does *not* contain all the information on this page, which you should read *before* responding to the exam. 
+
+## Aims
+
+This exam has two aims for the purposes of this course, namely for you to: 
+
+1. Cover foundations in activity theory *before* you proceed with your own project (i.e., your [Player Story](final.html)) in this course. 
+2. Demonstrate your knowledge of key terms from the second half of this course. These terms include metagame, environmental storytelling, player story, and secondary and tertiary contradiction. 
