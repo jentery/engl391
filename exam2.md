@@ -65,7 +65,7 @@ Please also *refrain from interpreting the same game* in more than one response.
 <li>Use a compelling or unique example from a game documented in the media collection to explain how video games <em>evoke</em> stories.</li>
 <li>Use a compelling or unique example from a game documented in the media collection to explain how video games <em>enact</em> stories.</li>
 <li>Use a compelling or unique example from a game documented in the media collection to explain how video games <em>embed</em> stories.</li>
-<li>Use a compelling or unique example from a game documented in the media collection to explain how stories <em>emerge</em> from playing video games.</li>
+<li>Use a compelling or unique example that draws from a game documented in the media collection to explain how stories can <em>emerge</em> from playing video games. Your answer may be based on your own experiences watching or playing this particular game.</li>
 <li>Identify a genre set in a game documented in the media collection and explain how it's conducive to both <em>flow</em> and <em>friction</em>.</li>
 </ol>
 
